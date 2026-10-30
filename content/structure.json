@@ -88,7 +88,7 @@
     },
     "recordsCount": {
       "en": "records",
-      "de": "Einträge"
+      "de": "Eintr盲ge"
     },
     "sectionsCount": {
       "en": "sections",
@@ -201,7 +201,10 @@
         "version",
         "plan"
       ],
-      "groupIds": [],
+      "groupIds": [
+        "play",
+        "roles"
+      ],
       "journeyIds": [],
       "destinations": [
         {
@@ -245,7 +248,8 @@
         "choose"
       ],
       "groupIds": [
-        "play"
+        "play",
+        "roles"
       ],
       "journeyIds": [],
       "destinations": [

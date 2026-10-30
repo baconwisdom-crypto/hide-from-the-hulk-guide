@@ -1,6 +1,6 @@
 import type { ReactNode } from "react";
 
-export function SupportingGuidance({ title, entries, children, countLabel }: {
+export function SupportingGuidance({ title, entries, children, countLabel, expandLabel }: {
   title: string;
   expandLabel: string;
   countLabel: string;
@@ -12,6 +12,6 @@ export function SupportingGuidance({ title, entries, children, countLabel }: {
     <nav aria-label={title}><ol className="arch-support-index">{entries.map((entry, index) => <li key={entry.id}>
       <a href={`#${entry.id}`}><span aria-hidden="true">{String(index + 1).padStart(2, "0")}</span>{entry.title}</a>
     </li>)}</ol></nav>
-    <div className="arch-section-stack">{children}</div>
+    <details className="arch-background-details"><summary className="arch-text-link cursor-pointer">{expandLabel}</summary><div className="arch-section-stack">{children}</div></details>
   </section>;
 }

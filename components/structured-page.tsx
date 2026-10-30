@@ -114,7 +114,7 @@ function LandingTemplate(props: Props) {
 }
 
 function HubTemplate(props: Props) {
-  return <><Heading {...props} /><section aria-labelledby="browse-topics"><h2 id="browse-topics">{label("browseTopics", props.locale)}</h2><TopicGroups layout={props.layout} locale={props.locale} /></section><Answer page={props.page} locale={props.locale} /><ArticleSections page={props.page} locale={props.locale} sectionIds={props.layout.focusSectionIds} /><EndMatter {...props} /></>;
+  return <><Heading {...props} />{props.layout.groupIds.length > 0 && <section aria-labelledby="browse-topics"><h2 id="browse-topics">{label("browseTopics", props.locale)}</h2><TopicGroups layout={props.layout} locale={props.locale} /></section>}<Answer page={props.page} locale={props.locale} /><ArticleSections page={props.page} locale={props.locale} sectionIds={props.layout.focusSectionIds} /><EndMatter {...props} /></>;
 }
 
 function CatalogTemplate(props: Props) {
