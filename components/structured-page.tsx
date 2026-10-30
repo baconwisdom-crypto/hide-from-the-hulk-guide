@@ -103,17 +103,18 @@ function EndMatter(props: Props) {
 
 function LandingTemplate(props: Props) {
   const { page, layout, locale } = props;
+  if (page.pageType !== "Home") return <><Heading {...props} /><ReadingFrame props={props}><Answer page={page} locale={locale} /><ArticleSections page={page} locale={locale} sectionIds={layout.focusSectionIds} /><EndMatter {...props} /></ReadingFrame></>;
   const image = siteConfig.heroImage;
   const video = siteConfig.heroVideo;
   return <><div className="arch-landing-lead"><div><Heading {...props} /><Answer page={page} locale={locale} /></div>{image && <div className="arch-brand-image"><ContentImage bare preload image={{ src: image.src, alt: text(image.alt, locale), ratio: image.ratio, fit: image.fit }} /></div>}{video && <div className="arch-brand-image"><HeroMedia video={video} /></div>}</div>
     <AdSlot placement="home-banner" format="responsive-banner" />
     <section className="arch-landing-tasks" aria-labelledby="choose-task"><h2 id="choose-task">{label("chooseTask", locale)}</h2><nav className="arch-task-grid" aria-label={label("chooseTask", locale)}>{layout.destinations.map(item => <Destination key={item.pageId} item={item} locale={locale} />)}</nav></section>
     <section aria-labelledby="browse-topics"><h2 id="browse-topics">{label("browseTopics", locale)}</h2><TopicGroups layout={layout} locale={locale} compact /></section>
-    <EndMatter {...props} /></>;
+    <ArticleSections page={page} locale={locale} sectionIds={layout.focusSectionIds} /><EndMatter {...props} /></>;
 }
 
 function HubTemplate(props: Props) {
-  return <><Heading {...props} /><section aria-labelledby="browse-topics"><h2 id="browse-topics">{label("browseTopics", props.locale)}</h2><TopicGroups layout={props.layout} locale={props.locale} /></section><Answer page={props.page} locale={props.locale} /><EndMatter {...props} /></>;
+  return <><Heading {...props} /><section aria-labelledby="browse-topics"><h2 id="browse-topics">{label("browseTopics", props.locale)}</h2><TopicGroups layout={props.layout} locale={props.locale} /></section><Answer page={props.page} locale={props.locale} /><ArticleSections page={props.page} locale={props.locale} sectionIds={props.layout.focusSectionIds} /><EndMatter {...props} /></>;
 }
 
 function CatalogTemplate(props: Props) {
