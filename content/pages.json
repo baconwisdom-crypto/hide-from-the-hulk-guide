@@ -1,0 +1,2104 @@
+[
+  {
+    "page_id": "home",
+    "route": "/",
+    "section": "Guides",
+    "title": {
+      "en": "Hide From The Hulk Wiki: Heroes, Controls & Survival"
+    },
+    "description": {
+      "en": "Learn the round HUD, hero abilities, Hulk controls and team survival in the Roblox game by Sushi Deluxe Studios and Clozy."
+    },
+    "pageType": "Home",
+    "pageStatus": {
+      "en": "Reviewed October 30, 2026"
+    },
+    "intro": {
+      "en": "Learn the round HUD, hero abilities, Hulk controls and team survival in the Roblox game by Sushi Deluxe Studios and Clozy."
+    },
+    "quickAnswer": {
+      "title": {
+        "en": "What to do first"
+      },
+      "body": {
+        "en": "Choose a role, read the current round objective, and learn the action bar before committing to a fight. This guide covers the exact Roblox experience at place 128913244126628."
+      },
+      "status": {
+        "en": "Official rules and reviewed gameplay"
+      }
+    },
+    "sections": [
+      {
+        "id": "start",
+        "title": {
+          "en": "Pick your next task"
+        },
+        "paragraphs": [
+          {
+            "en": "Start with the beginner guide for the lobby and round flow. The controls guide separates keyboard, mobile and controller observations. Hero notes explain visible abilities without promising a universal best pick."
+          }
+        ]
+      },
+      {
+        "id": "version",
+        "title": {
+          "en": "The current game and update"
+        },
+        "paragraphs": [
+          {
+            "en": "The official title read on October 30 is [WINTER SOLDIER] Hide From The Hulk. The official description offers soldier and superhero roles, cooperative combat and support for all devices."
+          },
+          {
+            "en": "The current title identifies an update theme. The October 27 footage illustrates Human Torch and Sue Storm; their screens remain dated observations rather than a complete Winter Soldier patch log."
+          }
+        ]
+      },
+      {
+        "id": "plan",
+        "title": {
+          "en": "Read the objective before choosing a tactic"
+        },
+        "paragraphs": [
+          {
+            "en": "The reviewed matches show SURVIVE, FIND THEM and TAKE HIM DOWN prompts. A role switch changes the information and actions on screen. Open the relevant role guide before copying another player’s key sequence."
+          }
+        ]
+      }
+    ],
+    "boundary": {
+      "title": {
+        "en": "Version and evidence"
+      },
+      "items": [
+        {
+          "en": "Official rules were reviewed on October 30, 2026. Screenshots show community recordings from October 17 to 27; current balance, offers and bindings may change."
+        },
+        {
+          "en": "Tactical suggestions are editorial recommendations. Prices, drop rates and damage values are published only when tied to a dated visible screen."
+        }
+      ]
+    },
+    "sourceIds": [
+      "official-game",
+      "official-community",
+      "official-studio"
+    ],
+    "evidence": [
+      {
+        "id": "home-scope",
+        "statement": {
+          "en": "Official identity and announced rule context; dated screen observations are labelled in the relevant section."
+        },
+        "sourceId": "official-game",
+        "evidenceType": {
+          "en": "Official page and reviewed observations"
+        },
+        "verificationStatus": {
+          "en": "Reviewed 2026-10-30"
+        },
+        "spoilerLevel": {
+          "en": "Gameplay mechanics"
+        }
+      }
+    ],
+    "spoilerLevel": {
+      "en": "Gameplay mechanics"
+    },
+    "images": [],
+    "relatedPageIds": [
+      "beginner",
+      "heroes",
+      "controls"
+    ],
+    "localeAvailability": [
+      "en"
+    ],
+    "publicationStatus": "published",
+    "faq": [],
+    "primaryAction": {
+      "label": {
+        "en": "Start your first round"
+      },
+      "pageId": "beginner"
+    }
+  },
+  {
+    "page_id": "guides-hub",
+    "route": "/guides/",
+    "section": "Guides",
+    "title": {
+      "en": "Hide From The Hulk Guides"
+    },
+    "description": {
+      "en": "Choose a focused guide to round flow, controls, soldiers, Hulk play, maps or rewards."
+    },
+    "pageType": "Hub",
+    "pageStatus": {
+      "en": "Reviewed October 30, 2026"
+    },
+    "intro": {
+      "en": "Choose a focused guide to round flow, controls, soldiers, Hulk play, maps or rewards."
+    },
+    "quickAnswer": {
+      "title": {
+        "en": "What to do first"
+      },
+      "body": {
+        "en": "Use one guide for the question you are trying to solve in the next round."
+      },
+      "status": {
+        "en": "Official rules and reviewed gameplay"
+      }
+    },
+    "sections": [
+      {
+        "id": "choose",
+        "title": {
+          "en": "Choose a guide"
+        },
+        "paragraphs": [
+          {
+            "en": "Use beginner and controls for the first session. Open the Hulk guide when the interface says FIND THEM; use soldier and map notes when you need a route out of a chase."
+          }
+        ]
+      }
+    ],
+    "boundary": {
+      "title": {
+        "en": "Version and evidence"
+      },
+      "items": [
+        {
+          "en": "Official rules were reviewed on October 30, 2026. Screenshots show community recordings from October 17 to 27; current balance, offers and bindings may change."
+        },
+        {
+          "en": "Tactical suggestions are editorial recommendations. Prices, drop rates and damage values are published only when tied to a dated visible screen."
+        }
+      ]
+    },
+    "sourceIds": [
+      "official-game",
+      "official-community"
+    ],
+    "evidence": [
+      {
+        "id": "guides-hub-scope",
+        "statement": {
+          "en": "Official identity and announced rule context; dated screen observations are labelled in the relevant section."
+        },
+        "sourceId": "official-game",
+        "evidenceType": {
+          "en": "Official page and reviewed observations"
+        },
+        "verificationStatus": {
+          "en": "Reviewed 2026-10-30"
+        },
+        "spoilerLevel": {
+          "en": "Gameplay mechanics"
+        }
+      }
+    ],
+    "spoilerLevel": {
+      "en": "Gameplay mechanics"
+    },
+    "images": [],
+    "relatedPageIds": [
+      "beginner",
+      "controls",
+      "maps"
+    ],
+    "localeAvailability": [
+      "en"
+    ],
+    "publicationStatus": "published",
+    "faq": [],
+    "navigation": {
+      "label": {
+        "en": "Guides"
+      },
+      "order": 1
+    }
+  },
+  {
+    "page_id": "beginner",
+    "route": "/guides/beginner/",
+    "section": "Guides",
+    "title": {
+      "en": "Hide From The Hulk Beginner Guide"
+    },
+    "description": {
+      "en": "Follow the lobby, role selection, round objective and first escape route with reviewed gameplay screens."
+    },
+    "pageType": "GuideArticle",
+    "pageStatus": {
+      "en": "Reviewed October 30, 2026"
+    },
+    "intro": {
+      "en": "Follow the lobby, role selection, round objective and first escape route with reviewed gameplay screens."
+    },
+    "quickAnswer": {
+      "title": {
+        "en": "What to do first"
+      },
+      "body": {
+        "en": "During intermission, check AFK and your selected role. Once the round starts, read the objective, locate your ability bar and choose an exit before engaging."
+      },
+      "status": {
+        "en": "Official rules and reviewed gameplay"
+      }
+    },
+    "sections": [
+      {
+        "id": "lobby",
+        "title": {
+          "en": "1. Prepare during intermission"
+        },
+        "paragraphs": [
+          {
+            "en": "The lobby footage shows an intermission timer and left-side Heroes, Spectate, Store, Cosmetics and AFK controls. Finish menu choices while the timer is visible; close the panel so the next round’s action bar is readable."
+          },
+          {
+            "en": "The creator announcement says AFK players are excluded from role selection and rounds. Three minutes without input also turns AFK on automatically. If you keep missing selection, check AFK first."
+          }
+        ],
+        "imageIds": [
+          "shot-lobby-intermission"
+        ]
+      },
+      {
+        "id": "objective",
+        "title": {
+          "en": "2. Read the role and round HUD"
+        },
+        "paragraphs": [
+          {
+            "en": "The top HUD identifies remaining players, a timer and the opposing boss health bar. SURVIVE appears in hero footage, FIND THEM in Hulk footage, and TAKE HIM DOWN in the Ultron encounter. Follow the instruction shown for your round."
+          },
+          {
+            "en": "Keep two checks separate: your own health and the boss bar. Seeing a full boss bar does not tell you your character is safe. Look at your character panel and the immediate route before attacking."
+          }
+        ],
+        "imageIds": [
+          "shot-round-objective"
+        ]
+      },
+      {
+        "id": "first-fight",
+        "title": {
+          "en": "3. Make one attack and preserve an exit"
+        },
+        "paragraphs": [
+          {
+            "en": "In the rooftop footage, doorways connect the outside fighting area with interior corridors and stairs. Before attacking, choose which door or open lane you will use if the boss approaches."
+          },
+          {
+            "en": "For a first attempt, learn one available action, use it when the boss is occupied, then reposition. This is a conservative learning plan. It makes no promise that a wall, roof or doorway is a permanent safe spot."
+          }
+        ],
+        "imageIds": [
+          "shot-first-route"
+        ]
+      },
+      {
+        "id": "turns",
+        "title": {
+          "en": "4. Understand hero turns"
+        },
+        "paragraphs": [
+          {
+            "en": "The creator’s Doctor Strange announcement says heroes take turns and the player who has waited longest is selected first. An equipped hero and an immediate hero turn are different states."
+          },
+          {
+            "en": "If a hero is equipped but you have not been selected, remain active, check AFK and read the next round’s selection. Repeated purchases are unnecessary for diagnosing a queue or AFK issue."
+          }
+        ]
+      }
+    ],
+    "boundary": {
+      "title": {
+        "en": "Version and evidence"
+      },
+      "items": [
+        {
+          "en": "Official rules were reviewed on October 30, 2026. Screenshots show community recordings from October 17 to 27; current balance, offers and bindings may change."
+        },
+        {
+          "en": "Tactical suggestions are editorial recommendations. Prices, drop rates and damage values are published only when tied to a dated visible screen."
+        }
+      ]
+    },
+    "sourceIds": [
+      "official-game",
+      "official-community"
+    ],
+    "evidence": [
+      {
+        "id": "beginner-scope",
+        "statement": {
+          "en": "Official identity and announced rule context; dated screen observations are labelled in the relevant section."
+        },
+        "sourceId": "official-game",
+        "evidenceType": {
+          "en": "Official page and reviewed observations"
+        },
+        "verificationStatus": {
+          "en": "Reviewed 2026-10-30"
+        },
+        "spoilerLevel": {
+          "en": "Gameplay mechanics"
+        }
+      }
+    ],
+    "spoilerLevel": {
+      "en": "Gameplay mechanics"
+    },
+    "images": [
+      {
+        "id": "shot-lobby-intermission",
+        "src": "/images/video-lobby-intermission.webp",
+        "alt": {
+          "en": "Intermission lobby with Spectate, Store, Cosmetics and AFK controls."
+        },
+        "caption": {
+          "en": "Intermission lobby with Spectate, Store, Cosmetics and AFK controls. Source frame 00:00:05"
+        },
+        "ratio": "video",
+        "fit": "cover",
+        "sourceId": "video-7LrtY70DAB8",
+        "sourceUrl": "https://www.youtube.com/watch?v=7LrtY70DAB8&t=5s",
+        "timecode": "00:00:05",
+        "videoId": "7LrtY70DAB8"
+      },
+      {
+        "id": "shot-round-objective",
+        "src": "/images/video-round-objective.webp",
+        "alt": {
+          "en": "A TAKE HIM DOWN objective and Ultron health bar in the reviewed encounter."
+        },
+        "caption": {
+          "en": "A TAKE HIM DOWN objective and Ultron health bar in the reviewed encounter. Source frame 00:00:40"
+        },
+        "ratio": "video",
+        "fit": "cover",
+        "sourceId": "video-SaIky_z1obQ",
+        "sourceUrl": "https://www.youtube.com/watch?v=SaIky_z1obQ&t=40s",
+        "timecode": "00:00:40",
+        "videoId": "SaIky_z1obQ"
+      },
+      {
+        "id": "shot-first-route",
+        "src": "/images/video-first-route.webp",
+        "alt": {
+          "en": "Rooftop lanes and doorway structures provide routes to inspect before a fight."
+        },
+        "caption": {
+          "en": "Rooftop lanes and doorway structures provide routes to inspect before a fight. Source frame 00:01:20"
+        },
+        "ratio": "video",
+        "fit": "cover",
+        "sourceId": "video-7LrtY70DAB8",
+        "sourceUrl": "https://www.youtube.com/watch?v=7LrtY70DAB8&t=80s",
+        "timecode": "00:01:20",
+        "videoId": "7LrtY70DAB8"
+      }
+    ],
+    "relatedPageIds": [
+      "controls",
+      "heroes",
+      "maps"
+    ],
+    "localeAvailability": [
+      "en"
+    ],
+    "publicationStatus": "published",
+    "faq": [
+      {
+        "question": {
+          "en": "Why am I not being picked?"
+        },
+        "answer": {
+          "en": "Check AFK first. The official announcement says inactive players are excluded, and heroes use a longest-waiting-first rotation. Exact current queue internals are unverified."
+        }
+      }
+    ]
+  },
+  {
+    "page_id": "controls",
+    "route": "/guides/controls/",
+    "section": "Guides",
+    "title": {
+      "en": "Hide From The Hulk Controls: PC, Mobile & Controller"
+    },
+    "description": {
+      "en": "Read the actual Captain America, Hulk and Iron Man action bars and understand role-specific inputs."
+    },
+    "pageType": "GuideArticle",
+    "pageStatus": {
+      "en": "Reviewed October 30, 2026"
+    },
+    "intro": {
+      "en": "Read the actual Captain America, Hulk and Iron Man action bars and understand role-specific inputs."
+    },
+    "quickAnswer": {
+      "title": {
+        "en": "What to do first"
+      },
+      "body": {
+        "en": "Use your active role’s displayed prompts. Keyboard actions differ between Hulk and heroes, and mobile uses an on-screen ability cluster."
+      },
+      "status": {
+        "en": "Official rules and reviewed gameplay"
+      }
+    },
+    "sections": [
+      {
+        "id": "pc",
+        "title": {
+          "en": "PC inputs visible in the reviewed build"
+        },
+        "paragraphs": [
+          {
+            "en": "The Captain America recording displays Click for Strike, R for Throw, F for Ride, right-click hold for Block, Q for Shield Charge and X for Slide. Read the equipped action and cooldown before repeating an input."
+          },
+          {
+            "en": "These bindings were visible in October 20 footage. They should be checked against the current HUD after an update, especially if you use remapped controls."
+          }
+        ],
+        "table": {
+          "columns": [
+            {
+              "en": "Role"
+            },
+            {
+              "en": "Visible PC actions"
+            },
+            {
+              "en": "Recorded scope"
+            }
+          ],
+          "rows": [
+            [
+              {
+                "en": "Captain America"
+              },
+              {
+                "en": "Click Strike; R Throw; F Ride; right-click hold Block; Q Shield Charge; X Slide"
+              },
+              {
+                "en": "October 20 footage"
+              }
+            ],
+            [
+              {
+                "en": "Hulk"
+              },
+              {
+                "en": "Click Smash; Space Leap; Ctrl Run; Q Clap; F Sniff"
+              },
+              {
+                "en": "October 20 Hulk action bar"
+              }
+            ],
+            [
+              {
+                "en": "Sue Storm"
+              },
+              {
+                "en": "Click Bolts; right-click Force Field; R Veil; F Vortex; Q Boundary; X Slide; stay still Vanish"
+              },
+              {
+                "en": "October 27 footage"
+              }
+            ]
+          ]
+        },
+        "imageIds": [
+          "shot-captain-pc-controls"
+        ]
+      },
+      {
+        "id": "mobile",
+        "title": {
+          "en": "Mobile: use the named action buttons"
+        },
+        "paragraphs": [
+          {
+            "en": "The mobile Captain America screen shows separate Strike, Block, Throw, Ride, Charge, Slide and Shift Lock controls. The movement stick sits on the left and actions on the right. A number inside a button indicates a displayed cooldown state."
+          },
+          {
+            "en": "Learn one action while keeping the camera and movement usable. If the action has a cooldown number, stop repeatedly tapping and move to a safer route while checking the meter."
+          }
+        ],
+        "imageIds": [
+          "shot-mobile-controls"
+        ]
+      },
+      {
+        "id": "controller",
+        "title": {
+          "en": "Controller and settings"
+        },
+        "paragraphs": [
+          {
+            "en": "The Black Panther controller demonstration displays R2 for Claws and Kicks, X for Spear, circle for Rend and L2 held for Block. Treat these as labels from that role’s recorded controller setup."
+          },
+          {
+            "en": "The official announcement adds Controller Shift Lock and Auto Run settings, plus a mobile layout rearrangement. Check the current Settings menu for those controls; a full Xbox mapping for every role has not been verified."
+          }
+        ],
+        "imageIds": [
+          "shot-controller-controls"
+        ]
+      },
+      {
+        "id": "cooldown",
+        "title": {
+          "en": "When a correctly pressed input cannot act"
+        },
+        "paragraphs": [
+          {
+            "en": "Iron Man’s mobile screen can show FLIGHT COOLDOWN and THRUSTERS COOLING while the Fly button counts down. That visible state explains why another tap may not start flight."
+          },
+          {
+            "en": "Check the action’s own meter and wait for the ready state before committing to a route that depends on it. Keep an ordinary doorway or lane available if flight is unavailable."
+          }
+        ],
+        "imageIds": [
+          "shot-flight-cooldown"
+        ]
+      }
+    ],
+    "boundary": {
+      "title": {
+        "en": "Version and evidence"
+      },
+      "items": [
+        {
+          "en": "Official rules were reviewed on October 30, 2026. Screenshots show community recordings from October 17 to 27; current balance, offers and bindings may change."
+        },
+        {
+          "en": "Tactical suggestions are editorial recommendations. Prices, drop rates and damage values are published only when tied to a dated visible screen."
+        }
+      ]
+    },
+    "sourceIds": [
+      "official-game",
+      "official-community"
+    ],
+    "evidence": [
+      {
+        "id": "controls-scope",
+        "statement": {
+          "en": "Official identity and announced rule context; dated screen observations are labelled in the relevant section."
+        },
+        "sourceId": "official-game",
+        "evidenceType": {
+          "en": "Official page and reviewed observations"
+        },
+        "verificationStatus": {
+          "en": "Reviewed 2026-10-30"
+        },
+        "spoilerLevel": {
+          "en": "Gameplay mechanics"
+        }
+      }
+    ],
+    "spoilerLevel": {
+      "en": "Gameplay mechanics"
+    },
+    "images": [
+      {
+        "id": "shot-captain-pc-controls",
+        "src": "/images/video-captain-pc-controls.webp",
+        "alt": {
+          "en": "Captain America keyboard action prompts and shield meters."
+        },
+        "caption": {
+          "en": "Captain America keyboard action prompts and shield meters. Source frame 00:00:30"
+        },
+        "ratio": "video",
+        "fit": "cover",
+        "sourceId": "video-7LrtY70DAB8",
+        "sourceUrl": "https://www.youtube.com/watch?v=7LrtY70DAB8&t=30s",
+        "timecode": "00:00:30",
+        "videoId": "7LrtY70DAB8"
+      },
+      {
+        "id": "shot-mobile-controls",
+        "src": "/images/video-mobile-controls.webp",
+        "alt": {
+          "en": "Mobile Captain America buttons for movement, block, throw and charge."
+        },
+        "caption": {
+          "en": "Mobile Captain America buttons for movement, block, throw and charge. Source frame 00:00:05"
+        },
+        "ratio": "video",
+        "fit": "cover",
+        "sourceId": "video-J_w-_PJL6PU",
+        "sourceUrl": "https://www.youtube.com/watch?v=J_w-_PJL6PU&t=5s",
+        "timecode": "00:00:05",
+        "videoId": "J_w-_PJL6PU"
+      },
+      {
+        "id": "shot-controller-controls",
+        "src": "/images/video-controller-controls.webp",
+        "alt": {
+          "en": "Black Panther controller prompts and separate ability meters."
+        },
+        "caption": {
+          "en": "Black Panther controller prompts and separate ability meters. Source frame 00:01:20"
+        },
+        "ratio": "video",
+        "fit": "cover",
+        "sourceId": "video-VWCN3exX9dU",
+        "sourceUrl": "https://www.youtube.com/watch?v=VWCN3exX9dU&t=80s",
+        "timecode": "00:01:20",
+        "videoId": "VWCN3exX9dU"
+      },
+      {
+        "id": "shot-flight-cooldown",
+        "src": "/images/video-flight-cooldown.webp",
+        "alt": {
+          "en": "Iron Man mobile HUD displays flight cooldown and thrusters cooling."
+        },
+        "caption": {
+          "en": "Iron Man mobile HUD displays flight cooldown and thrusters cooling. Source frame 00:11:40"
+        },
+        "ratio": "video",
+        "fit": "cover",
+        "sourceId": "video-J_w-_PJL6PU",
+        "sourceUrl": "https://www.youtube.com/watch?v=J_w-_PJL6PU&t=700s",
+        "timecode": "00:11:40",
+        "videoId": "J_w-_PJL6PU"
+      }
+    ],
+    "relatedPageIds": [
+      "heroes",
+      "hulk",
+      "beginner"
+    ],
+    "localeAvailability": [
+      "en"
+    ],
+    "publicationStatus": "published",
+    "faq": []
+  },
+  {
+    "page_id": "heroes",
+    "route": "/heroes/",
+    "section": "Heroes",
+    "title": {
+      "en": "Hide From The Hulk Heroes: Ability Reference"
+    },
+    "description": {
+      "en": "Compare visible Captain America, Iron Man, Human Torch, Sue Storm and Black Panther actions before choosing a role."
+    },
+    "pageType": "GuideArticle",
+    "pageStatus": {
+      "en": "Reviewed October 30, 2026"
+    },
+    "intro": {
+      "en": "Compare visible Captain America, Iron Man, Human Torch, Sue Storm and Black Panther actions before choosing a role."
+    },
+    "quickAnswer": {
+      "title": {
+        "en": "What to do first"
+      },
+      "body": {
+        "en": "Pick the action pattern you want to learn, then check its live offer and selection state. A character’s recorded ability list does not establish a permanent tier ranking."
+      },
+      "status": {
+        "en": "Official rules and reviewed gameplay"
+      }
+    },
+    "sections": [
+      {
+        "id": "compare",
+        "title": {
+          "en": "Compare what each demonstrated kit asks you to manage"
+        },
+        "paragraphs": [
+          {
+            "en": "Captain America has shield and block actions; Iron Man has flight and beam resources. Human Torch uses fire and heat management. Sue Storm has field and concealment states, while Black Panther combines close attacks with a spear."
+          },
+          {
+            "en": "Use the table to choose a learning goal. Current purchase prices, complete damage numbers and a current Winter Soldier kit are not verified, so this reference avoids a numerical tier list."
+          }
+        ],
+        "table": {
+          "columns": [
+            {
+              "en": "Hero"
+            },
+            {
+              "en": "Observed actions or resources"
+            },
+            {
+              "en": "What to practise first"
+            }
+          ],
+          "rows": [
+            [
+              {
+                "en": "Captain America"
+              },
+              {
+                "en": "Strike, Throw, Block, Ride, Shield Charge"
+              },
+              {
+                "en": "Block timing and shield readiness"
+              }
+            ],
+            [
+              {
+                "en": "Iron Man MK IV"
+              },
+              {
+                "en": "Blast, Fly, Unibeam; thrust and cooldown displays"
+              },
+              {
+                "en": "Land before relying on flight again"
+              }
+            ],
+            [
+              {
+                "en": "Human Torch"
+              },
+              {
+                "en": "Fireballs, flamethrower, fire walls and Supernova on the hero panel"
+              },
+              {
+                "en": "Heat and a clear flight route"
+              }
+            ],
+            [
+              {
+                "en": "Sue Storm"
+              },
+              {
+                "en": "Bolts, Force Field, Veil, Vortex, Boundary, stationary Vanish"
+              },
+              {
+                "en": "Read hidden/seen and field states"
+              }
+            ],
+            [
+              {
+                "en": "Black Panther"
+              },
+              {
+                "en": "Claws and Kicks, Spear, Rend, Block"
+              },
+              {
+                "en": "Close-range approach and an exit"
+              }
+            ]
+          ]
+        }
+      },
+      {
+        "id": "torch",
+        "title": {
+          "en": "Human Torch: read heat before extending a fight"
+        },
+        "paragraphs": [
+          {
+            "en": "The October 27 hero panel describes fireballs, a flamethrower, fire walls, overheating and Supernova. The same recording shows the character flying above the rooftop."
+          },
+          {
+            "en": "Before extending an attack, watch the current heat and readiness indicators. Plan a landing route while the ability is still available. The dated hero panel shows 300 health; that figure is a historical screen value, not a claim about every current server."
+          }
+        ],
+        "imageIds": [
+          "shot-human-torch-kit"
+        ]
+      },
+      {
+        "id": "sue",
+        "title": {
+          "en": "Sue Storm: distinguish hidden and seen states"
+        },
+        "paragraphs": [
+          {
+            "en": "In the reviewed Titan footage, Sue Storm becomes translucent while stationary. A later screen explicitly reads INVISIBLE BOUNDARY - YOUR TEAM IS HIDDEN and also displays a separate seen/vanishing state."
+          },
+          {
+            "en": "Read those status messages before assuming concealment is active. Concealment does not demonstrate invulnerability. Maintain a route around the nearby structures if the boss closes the distance."
+          }
+        ],
+        "imageIds": [
+          "shot-sue-boundary"
+        ]
+      },
+      {
+        "id": "panther",
+        "title": {
+          "en": "Black Panther: avoid treating a close-range kit as constant safety"
+        },
+        "paragraphs": [
+          {
+            "en": "The controller showcase visibly includes Claws and Kicks, Spear, Rend and Block, with separate meter or cooldown indicators. A close encounter shows Hulk immediately in front of the character."
+          },
+          {
+            "en": "Practise one approach, an available attack and a retreat before chaining the full kit. No measured damage comparison or guaranteed block protection is established by the reviewed frames."
+          }
+        ],
+        "imageIds": [
+          "shot-panther-encounter"
+        ]
+      },
+      {
+        "id": "selection",
+        "title": {
+          "en": "Equipped, owned and selected are separate checks"
+        },
+        "paragraphs": [
+          {
+            "en": "The hero panel distinguishes OWNED and EQUIPPED. The official announcement separately describes a rotation for hero turns. First equip the intended owned hero, close the panel and check the next round’s actual role."
+          },
+          {
+            "en": "For any paid offer, read the current Roblox confirmation and exact item name. This page does not carry over another creator’s price table or assume an older recording’s ownership applies to your account."
+          }
+        ]
+      }
+    ],
+    "boundary": {
+      "title": {
+        "en": "Version and evidence"
+      },
+      "items": [
+        {
+          "en": "Official rules were reviewed on October 30, 2026. Screenshots show community recordings from October 17 to 27; current balance, offers and bindings may change."
+        },
+        {
+          "en": "Tactical suggestions are editorial recommendations. Prices, drop rates and damage values are published only when tied to a dated visible screen."
+        }
+      ]
+    },
+    "sourceIds": [
+      "official-game",
+      "official-community"
+    ],
+    "evidence": [
+      {
+        "id": "heroes-scope",
+        "statement": {
+          "en": "Official identity and announced rule context; dated screen observations are labelled in the relevant section."
+        },
+        "sourceId": "official-game",
+        "evidenceType": {
+          "en": "Official page and reviewed observations"
+        },
+        "verificationStatus": {
+          "en": "Reviewed 2026-10-30"
+        },
+        "spoilerLevel": {
+          "en": "Gameplay mechanics"
+        }
+      }
+    ],
+    "spoilerLevel": {
+      "en": "Gameplay mechanics"
+    },
+    "images": [
+      {
+        "id": "shot-human-torch-kit",
+        "src": "/images/video-human-torch-kit.webp",
+        "alt": {
+          "en": "Human Torch hero panel lists fire abilities, overheating and Supernova."
+        },
+        "caption": {
+          "en": "Human Torch hero panel lists fire abilities, overheating and Supernova. Source frame 00:00:05"
+        },
+        "ratio": "video",
+        "fit": "cover",
+        "sourceId": "video-pA795Yc5tB8",
+        "sourceUrl": "https://www.youtube.com/watch?v=pA795Yc5tB8&t=5s",
+        "timecode": "00:00:05",
+        "videoId": "pA795Yc5tB8"
+      },
+      {
+        "id": "shot-sue-boundary",
+        "src": "/images/video-sue-boundary.webp",
+        "alt": {
+          "en": "Sue Storm HUD reads that the team is hidden by Invisible Boundary."
+        },
+        "caption": {
+          "en": "Sue Storm HUD reads that the team is hidden by Invisible Boundary. Source frame 00:03:45"
+        },
+        "ratio": "video",
+        "fit": "cover",
+        "sourceId": "video-pA795Yc5tB8",
+        "sourceUrl": "https://www.youtube.com/watch?v=pA795Yc5tB8&t=225s",
+        "timecode": "00:03:45",
+        "videoId": "pA795Yc5tB8"
+      },
+      {
+        "id": "shot-panther-encounter",
+        "src": "/images/video-panther-encounter.webp",
+        "alt": {
+          "en": "Black Panther in a close encounter with Hulk and visible ability HUD."
+        },
+        "caption": {
+          "en": "Black Panther in a close encounter with Hulk and visible ability HUD. Source frame 00:02:00"
+        },
+        "ratio": "video",
+        "fit": "cover",
+        "sourceId": "video-VWCN3exX9dU",
+        "sourceUrl": "https://www.youtube.com/watch?v=VWCN3exX9dU&t=120s",
+        "timecode": "00:02:00",
+        "videoId": "VWCN3exX9dU"
+      }
+    ],
+    "relatedPageIds": [
+      "controls",
+      "beginner",
+      "cosmetics"
+    ],
+    "localeAvailability": [
+      "en"
+    ],
+    "publicationStatus": "published",
+    "faq": [],
+    "navigation": {
+      "label": {
+        "en": "Heroes"
+      },
+      "order": 2
+    }
+  },
+  {
+    "page_id": "hulk",
+    "route": "/guides/play-hulk/",
+    "section": "Guides",
+    "title": {
+      "en": "How to Play Hulk in Hide From The Hulk"
+    },
+    "description": {
+      "en": "Use the visible Hulk action bar, scent information, movement and round objective to plan a chase."
+    },
+    "pageType": "GuideArticle",
+    "pageStatus": {
+      "en": "Reviewed October 30, 2026"
+    },
+    "intro": {
+      "en": "Use the visible Hulk action bar, scent information, movement and round objective to plan a chase."
+    },
+    "quickAnswer": {
+      "title": {
+        "en": "What to do first"
+      },
+      "body": {
+        "en": "Read FIND THEM, locate the remaining-player count and use the Hulk-specific action bar. Do not copy a hero’s attack bindings into a Hulk round."
+      },
+      "status": {
+        "en": "Official rules and reviewed gameplay"
+      }
+    },
+    "sections": [
+      {
+        "id": "kit",
+        "title": {
+          "en": "Read the Hulk action bar"
+        },
+        "paragraphs": [
+          {
+            "en": "The October 20 PC recording shows Smash on Click, Leap on Space, Run on Ctrl, Clap on Q and Sniff on F. It also shows an Anger bar and an ability meter."
+          },
+          {
+            "en": "Start with ordinary movement and one ability. Check each cooldown before trying a chain. A number on Clap or Sniff means the interface is displaying a timed state, so plan another action instead of assuming it can fire again immediately."
+          }
+        ],
+        "imageIds": [
+          "shot-hulk-kit"
+        ]
+      },
+      {
+        "id": "track",
+        "title": {
+          "en": "Use scent information as a clue to the route"
+        },
+        "paragraphs": [
+          {
+            "en": "The reviewed Hulk screens show directional markers and scent-related information around the environment. Survivor footage can display THE HULK HAS YOUR SCENT. These states show that simply leaving the immediate camera view does not prove a player is undetectable."
+          },
+          {
+            "en": "Use visible clues to choose a direction, then inspect connecting rooms, roof structures and stairs. The reviewed material does not establish a current exact sniff radius or duration."
+          }
+        ],
+        "imageIds": [
+          "shot-hulk-tracking"
+        ]
+      },
+      {
+        "id": "routes",
+        "title": {
+          "en": "Check vertical routes before spending mobility"
+        },
+        "paragraphs": [
+          {
+            "en": "The footage shows Hulk in both the rooftop area and an interior stairwell. Movement between those spaces changes sightlines and the angle to the target."
+          },
+          {
+            "en": "Before spending Leap or Run, identify the landing or doorway you are aiming for. If the target leaves your view, turn the camera and reacquire a route before using another movement action."
+          }
+        ],
+        "imageIds": [
+          "shot-hulk-stairs"
+        ]
+      }
+    ],
+    "boundary": {
+      "title": {
+        "en": "Version and evidence"
+      },
+      "items": [
+        {
+          "en": "Official rules were reviewed on October 30, 2026. Screenshots show community recordings from October 17 to 27; current balance, offers and bindings may change."
+        },
+        {
+          "en": "Tactical suggestions are editorial recommendations. Prices, drop rates and damage values are published only when tied to a dated visible screen."
+        }
+      ]
+    },
+    "sourceIds": [
+      "official-game",
+      "official-community"
+    ],
+    "evidence": [
+      {
+        "id": "hulk-scope",
+        "statement": {
+          "en": "Official identity and announced rule context; dated screen observations are labelled in the relevant section."
+        },
+        "sourceId": "official-game",
+        "evidenceType": {
+          "en": "Official page and reviewed observations"
+        },
+        "verificationStatus": {
+          "en": "Reviewed 2026-10-30"
+        },
+        "spoilerLevel": {
+          "en": "Gameplay mechanics"
+        }
+      }
+    ],
+    "spoilerLevel": {
+      "en": "Gameplay mechanics"
+    },
+    "images": [
+      {
+        "id": "shot-hulk-kit",
+        "src": "/images/video-hulk-kit.webp",
+        "alt": {
+          "en": "Hulk PC HUD with Smash, Leap, Run, Clap, Sniff and Anger."
+        },
+        "caption": {
+          "en": "Hulk PC HUD with Smash, Leap, Run, Clap, Sniff and Anger. Source frame 00:05:20"
+        },
+        "ratio": "video",
+        "fit": "cover",
+        "sourceId": "video-7LrtY70DAB8",
+        "sourceUrl": "https://www.youtube.com/watch?v=7LrtY70DAB8&t=320s",
+        "timecode": "00:05:20",
+        "videoId": "7LrtY70DAB8"
+      },
+      {
+        "id": "shot-hulk-tracking",
+        "src": "/images/video-hulk-tracking.webp",
+        "alt": {
+          "en": "Hulk perspective with directional markers around connected interior spaces."
+        },
+        "caption": {
+          "en": "Hulk perspective with directional markers around connected interior spaces. Source frame 00:04:40"
+        },
+        "ratio": "video",
+        "fit": "cover",
+        "sourceId": "video-SaIky_z1obQ",
+        "sourceUrl": "https://www.youtube.com/watch?v=SaIky_z1obQ&t=280s",
+        "timecode": "00:04:40",
+        "videoId": "SaIky_z1obQ"
+      },
+      {
+        "id": "shot-hulk-stairs",
+        "src": "/images/video-hulk-stairs.webp",
+        "alt": {
+          "en": "Hulk in an interior stairwell connecting the building levels."
+        },
+        "caption": {
+          "en": "Hulk in an interior stairwell connecting the building levels. Source frame 00:08:20"
+        },
+        "ratio": "video",
+        "fit": "cover",
+        "sourceId": "video-7LrtY70DAB8",
+        "sourceUrl": "https://www.youtube.com/watch?v=7LrtY70DAB8&t=500s",
+        "timecode": "00:08:20",
+        "videoId": "7LrtY70DAB8"
+      }
+    ],
+    "relatedPageIds": [
+      "maps",
+      "controls",
+      "soldiers"
+    ],
+    "localeAvailability": [
+      "en"
+    ],
+    "publicationStatus": "published",
+    "faq": []
+  },
+  {
+    "page_id": "soldiers",
+    "route": "/guides/soldiers-and-rescues/",
+    "section": "Guides",
+    "title": {
+      "en": "Soldier and Team Rescue Guide"
+    },
+    "description": {
+      "en": "Understand soldier participation, shared portals and the officially announced way to interrupt an execution."
+    },
+    "pageType": "GuideArticle",
+    "pageStatus": {
+      "en": "Reviewed October 30, 2026"
+    },
+    "intro": {
+      "en": "Understand soldier participation, shared portals and the officially announced way to interrupt an execution."
+    },
+    "quickAnswer": {
+      "title": {
+        "en": "What to do first"
+      },
+      "body": {
+        "en": "Read the soldier HUD for the current weapon, maintain an exit and coordinate rescues. The official announcement says an ultimate hit during an execution cancels it."
+      },
+      "status": {
+        "en": "Official rules and reviewed gameplay"
+      }
+    },
+    "sections": [
+      {
+        "id": "soldier",
+        "title": {
+          "en": "Start with the soldier interface"
+        },
+        "paragraphs": [
+          {
+            "en": "The October 21 soldier recording shows an Assault Rifle with Click Fire, right-click Aim and R Reload prompts. A stance indicator and movement prompts are displayed separately. Check your current HUD before applying recorded keys."
+          },
+          {
+            "en": "The visible ammunition display separates a magazine count from reserve ammunition. Recheck both before pushing through a doorway. A full current gun inventory, damage table and reward formula remain unverified."
+          }
+        ],
+        "imageIds": [
+          "shot-soldier-rifle"
+        ]
+      },
+      {
+        "id": "rescue",
+        "title": {
+          "en": "Interrupt an execution with the announced condition"
+        },
+        "paragraphs": [
+          {
+            "en": "The creator’s announcement states that hitting Hulk with an ultimate during an execution cancels the execution and saves the teammate. The condition is a hit during that event."
+          },
+          {
+            "en": "Call out the execution, check that your ultimate is available and seek a clear opportunity to connect. This rule does not establish that every ordinary hit works, or that spending an ultimate after the execution ends will reverse it."
+          }
+        ]
+      },
+      {
+        "id": "portals",
+        "title": {
+          "en": "A shared portal can also admit the boss"
+        },
+        "paragraphs": [
+          {
+            "en": "The Doctor Strange announcement explicitly allows soldiers, heroes, NPCs and Hulk to use Strange’s portals. Tell teammates where both ends lead before treating a portal as a regrouping route."
+          },
+          {
+            "en": "Check the destination and move away from the exit after crossing. Since Hulk can follow, a portal exit needs another escape direction. A complete portal placement shortcut and current duration have not been verified from the reviewed footage."
+          },
+          {
+            "en": "The October 19 Doctor Strange controller footage labels X as Portal, with orange then blue placement, and shows a Sling Ring meter plus a Place Orange or Move Orange state. Set the intended entrance and destination according to the current role prompts, then recheck both ends. This is a recorded controller example; it does not establish a keyboard shortcut or exact current portal duration."
+          }
+        ],
+        "imageIds": [
+          "shot-strange-portal"
+        ]
+      },
+      {
+        "id": "calls",
+        "title": {
+          "en": "Keep team calls short and actionable"
+        },
+        "paragraphs": [
+          {
+            "en": "Use calls that identify a place or event: an execution, a doorway, a ready ultimate or a portal destination. After crossing a doorway or portal, turn the camera to check whether the boss has followed."
+          },
+          {
+            "en": "Spacing and route suggestions here are editorial tactics. They do not imply a hidden aggro formula, revive mechanic or reward multiplier."
+          }
+        ]
+      }
+    ],
+    "boundary": {
+      "title": {
+        "en": "Version and evidence"
+      },
+      "items": [
+        {
+          "en": "Official rules were reviewed on October 30, 2026. Screenshots show community recordings from October 17 to 27; current balance, offers and bindings may change."
+        },
+        {
+          "en": "Tactical suggestions are editorial recommendations. Prices, drop rates and damage values are published only when tied to a dated visible screen."
+        }
+      ]
+    },
+    "sourceIds": [
+      "official-game",
+      "official-community"
+    ],
+    "evidence": [
+      {
+        "id": "soldiers-scope",
+        "statement": {
+          "en": "Official identity and announced rule context; dated screen observations are labelled in the relevant section."
+        },
+        "sourceId": "official-game",
+        "evidenceType": {
+          "en": "Official page and reviewed observations"
+        },
+        "verificationStatus": {
+          "en": "Reviewed 2026-10-30"
+        },
+        "spoilerLevel": {
+          "en": "Gameplay mechanics"
+        }
+      }
+    ],
+    "spoilerLevel": {
+      "en": "Gameplay mechanics"
+    },
+    "images": [
+      {
+        "id": "shot-soldier-rifle",
+        "src": "/images/video-soldier-rifle.webp",
+        "alt": {
+          "en": "Soldier Assault Rifle ammunition, stance and action prompts in an interior stairwell."
+        },
+        "caption": {
+          "en": "Soldier Assault Rifle ammunition, stance and action prompts in an interior stairwell. Source frame 00:00:30"
+        },
+        "ratio": "video",
+        "fit": "cover",
+        "sourceId": "video-Uka_NJCwe_0",
+        "sourceUrl": "https://www.youtube.com/watch?v=Uka_NJCwe_0&t=30s",
+        "timecode": "00:00:30",
+        "videoId": "Uka_NJCwe_0"
+      },
+      {
+        "id": "shot-strange-portal",
+        "src": "/images/video-strange-portal.webp",
+        "alt": {
+          "en": "Doctor Strange portal placement state, Sling Ring meter and orange-then-blue controller prompt."
+        },
+        "caption": {
+          "en": "Doctor Strange portal placement state, Sling Ring meter and orange-then-blue controller prompt. Source frame 00:02:20"
+        },
+        "ratio": "video",
+        "fit": "cover",
+        "sourceId": "video-kE2q1adep98",
+        "sourceUrl": "https://www.youtube.com/watch?v=kE2q1adep98&t=140s",
+        "timecode": "00:02:20",
+        "videoId": "kE2q1adep98"
+      }
+    ],
+    "relatedPageIds": [
+      "maps",
+      "hulk",
+      "controls"
+    ],
+    "localeAvailability": [
+      "en"
+    ],
+    "publicationStatus": "published",
+    "faq": []
+  },
+  {
+    "page_id": "maps",
+    "route": "/guides/maps-and-escape/",
+    "section": "Guides",
+    "title": {
+      "en": "Hide From The Hulk Maps and Escape Routes"
+    },
+    "description": {
+      "en": "Read rooftop lanes, indoor stairwells and Titan cover with real gameplay frames."
+    },
+    "pageType": "GuideArticle",
+    "pageStatus": {
+      "en": "Reviewed October 30, 2026"
+    },
+    "intro": {
+      "en": "Read rooftop lanes, indoor stairwells and Titan cover with real gameplay frames."
+    },
+    "quickAnswer": {
+      "title": {
+        "en": "What to do first"
+      },
+      "body": {
+        "en": "Treat each position as a temporary route decision. Keep a second exit available, and recheck the boss after moving between indoor and outdoor spaces."
+      },
+      "status": {
+        "en": "Official rules and reviewed gameplay"
+      }
+    },
+    "sections": [
+      {
+        "id": "rooftop",
+        "title": {
+          "en": "Rooftop: recognise lanes and roof structures"
+        },
+        "paragraphs": [
+          {
+            "en": "The reviewed rooftop has open lanes, small roof structures, doorways, ladders and a marked helipad. These are visual landmarks for planning a route. A roof object alone does not demonstrate a safe hiding spot."
+          },
+          {
+            "en": "Before using a flight or leap action, look for the next doorway and the open space behind it. If the boss reaches your lane, rotate toward the alternative route you already identified."
+          }
+        ],
+        "imageIds": [
+          "shot-rooftop-lanes"
+        ]
+      },
+      {
+        "id": "interior",
+        "title": {
+          "en": "Interiors: doors and stairs are commitment points"
+        },
+        "paragraphs": [
+          {
+            "en": "The Captain America footage shows an E OPEN prompt at a corridor door. Hulk footage shows a stairwell with a landing and limited visibility around corners."
+          },
+          {
+            "en": "Check whether the door is open and where the stairs emerge before committing to that route. Pause an attack if your next movement would leave you trapped against a closed door or corner."
+          }
+        ],
+        "imageIds": [
+          "shot-door-prompt"
+        ]
+      },
+      {
+        "id": "titan",
+        "title": {
+          "en": "Titan: use the actual terrain and HUD"
+        },
+        "paragraphs": [
+          {
+            "en": "The official Doctor Strange announcement names Titan as a new map. The October 27 Sue Storm sequence shows orange rocky terrain, curved structures, a tall ladder and hexagonal cover."
+          },
+          {
+            "en": "Use the structure locations to describe a regrouping point, then keep sight of the approach around it. The screenshot supports terrain recognition and a concealment example; it does not prove a permanent boss-proof hiding location."
+          }
+        ],
+        "imageIds": [
+          "shot-titan-terrain"
+        ]
+      },
+      {
+        "id": "portal-exit",
+        "title": {
+          "en": "When your escape tool is unavailable"
+        },
+        "paragraphs": [
+          {
+            "en": "Flight cooldowns, expended movement and a portal followed by the boss can all leave you needing an ordinary route. Check the current readiness state before stepping into a position that depends on one escape ability."
+          },
+          {
+            "en": "If the planned action is unavailable, use the nearest observed lane or doorway and turn the camera to track the approach. The specific route depends on the current map state and destruction."
+          }
+        ]
+      }
+    ],
+    "boundary": {
+      "title": {
+        "en": "Version and evidence"
+      },
+      "items": [
+        {
+          "en": "Official rules were reviewed on October 30, 2026. Screenshots show community recordings from October 17 to 27; current balance, offers and bindings may change."
+        },
+        {
+          "en": "Tactical suggestions are editorial recommendations. Prices, drop rates and damage values are published only when tied to a dated visible screen."
+        }
+      ]
+    },
+    "sourceIds": [
+      "official-game",
+      "official-community"
+    ],
+    "evidence": [
+      {
+        "id": "maps-scope",
+        "statement": {
+          "en": "Official identity and announced rule context; dated screen observations are labelled in the relevant section."
+        },
+        "sourceId": "official-game",
+        "evidenceType": {
+          "en": "Official page and reviewed observations"
+        },
+        "verificationStatus": {
+          "en": "Reviewed 2026-10-30"
+        },
+        "spoilerLevel": {
+          "en": "Gameplay mechanics"
+        }
+      }
+    ],
+    "spoilerLevel": {
+      "en": "Gameplay mechanics"
+    },
+    "images": [
+      {
+        "id": "shot-rooftop-lanes",
+        "src": "/images/video-rooftop-lanes.webp",
+        "alt": {
+          "en": "Rooftop structures, open lanes and the helipad in the reviewed map."
+        },
+        "caption": {
+          "en": "Rooftop structures, open lanes and the helipad in the reviewed map. Source frame 00:02:30"
+        },
+        "ratio": "video",
+        "fit": "cover",
+        "sourceId": "video-7LrtY70DAB8",
+        "sourceUrl": "https://www.youtube.com/watch?v=7LrtY70DAB8&t=150s",
+        "timecode": "00:02:30",
+        "videoId": "7LrtY70DAB8"
+      },
+      {
+        "id": "shot-door-prompt",
+        "src": "/images/video-door-prompt.webp",
+        "alt": {
+          "en": "An E OPEN prompt at an interior corridor door."
+        },
+        "caption": {
+          "en": "An E OPEN prompt at an interior corridor door. Source frame 00:03:50"
+        },
+        "ratio": "video",
+        "fit": "cover",
+        "sourceId": "video-7LrtY70DAB8",
+        "sourceUrl": "https://www.youtube.com/watch?v=7LrtY70DAB8&t=230s",
+        "timecode": "00:03:50",
+        "videoId": "7LrtY70DAB8"
+      },
+      {
+        "id": "shot-titan-terrain",
+        "src": "/images/video-titan-terrain.webp",
+        "alt": {
+          "en": "Sue Storm on orange rocky terrain with a ladder, curved structures and hexagonal cover."
+        },
+        "caption": {
+          "en": "Sue Storm on orange rocky terrain with a ladder, curved structures and hexagonal cover. Source frame 00:03:00"
+        },
+        "ratio": "video",
+        "fit": "cover",
+        "sourceId": "video-pA795Yc5tB8",
+        "sourceUrl": "https://www.youtube.com/watch?v=pA795Yc5tB8&t=180s",
+        "timecode": "00:03:00",
+        "videoId": "pA795Yc5tB8"
+      }
+    ],
+    "relatedPageIds": [
+      "heroes",
+      "soldiers",
+      "hulk"
+    ],
+    "localeAvailability": [
+      "en"
+    ],
+    "publicationStatus": "published",
+    "faq": []
+  },
+  {
+    "page_id": "cosmetics",
+    "route": "/guides/cosmetics-and-cash/",
+    "section": "Guides",
+    "title": {
+      "en": "Hide From The Hulk Cosmetics and Cash"
+    },
+    "description": {
+      "en": "Read the Cosmetics roll panel, distinguish historical roll costs from current offers and avoid unverified cash claims."
+    },
+    "pageType": "GuideArticle",
+    "pageStatus": {
+      "en": "Reviewed October 30, 2026"
+    },
+    "intro": {
+      "en": "Read the Cosmetics roll panel, distinguish historical roll costs from current offers and avoid unverified cash claims."
+    },
+    "quickAnswer": {
+      "title": {
+        "en": "What to do first"
+      },
+      "body": {
+        "en": "Open Cosmetics and read the current pool, odds and price before rolling. The reviewed panel shows hero skins and a currency balance; exact cash earning formulas were not verified."
+      },
+      "status": {
+        "en": "Official rules and reviewed gameplay"
+      }
+    },
+    "sections": [
+      {
+        "id": "roll",
+        "title": {
+          "en": "What the reviewed Cosmetics panel actually shows"
+        },
+        "paragraphs": [
+          {
+            "en": "The October 23 recording shows a Cosmetics panel with Roll, Heroes and Inventory tabs. The hero-skin panel lists 24 skins in that player’s pool, a single roll priced at 500 and Roll x10 priced at 4,500."
+          },
+          {
+            "en": "These are historical values for that visible account and recording. Read your current screen before spending. Pool size may depend on the heroes available to the account; the panel itself says the pool is from your heroes."
+          }
+        ],
+        "imageIds": [
+          "shot-cosmetics-roll"
+        ]
+      },
+      {
+        "id": "odds",
+        "title": {
+          "en": "Keep the shown odds tied to their panel"
+        },
+        "paragraphs": [
+          {
+            "en": "The same panel displays Rare 65.8%, Epic 25.3% and Legendary 8.9%, with Common and Mythic shown as dashes. It also shows Epic+ and Legendary+ pity counters."
+          },
+          {
+            "en": "A dash does not justify inventing a drop rate. The visible counters do not establish how every rarity resets or how later updates change the pool. Check the current rules and counters before planning rolls around a guaranteed result."
+          }
+        ]
+      },
+      {
+        "id": "missions",
+        "title": {
+          "en": "Use the visible mission panel as your starting point"
+        },
+        "paragraphs": [
+          {
+            "en": "The October 19 lobby recording shows completed missions for taking out 4 players as Hulk, playing 2 rounds and winning 2 rounds. Their displayed rewards are +650, +150 and +550 respectively, alongside a mission refresh countdown."
+          },
+          {
+            "en": "For your account, open the current mission list, choose a stated objective and check its completion state after the round. These dated entries establish an actual reward-related interface. They do not establish a fixed current rotation, a repeatable hourly income or an automatic payout formula for every match."
+          }
+        ],
+        "imageIds": [
+          "shot-mission-rewards"
+        ]
+      },
+      {
+        "id": "cash",
+        "title": {
+          "en": "What remains unknown about earning cash"
+        },
+        "paragraphs": [
+          {
+            "en": "A currency balance and roll prices are visible in the footage. A verified match-by-match earning table, reward multiplier and fastest repeatable farming route were not established."
+          },
+          {
+            "en": "Read the current end-of-round result and compare its displayed reward with the objective completed. Until that evidence is available, avoid treating survival duration, damage or kills as a confirmed payout formula."
+          }
+        ]
+      }
+    ],
+    "boundary": {
+      "title": {
+        "en": "Version and evidence"
+      },
+      "items": [
+        {
+          "en": "Official rules were reviewed on October 30, 2026. Screenshots show community recordings from October 17 to 27; current balance, offers and bindings may change."
+        },
+        {
+          "en": "Tactical suggestions are editorial recommendations. Prices, drop rates and damage values are published only when tied to a dated visible screen."
+        }
+      ]
+    },
+    "sourceIds": [
+      "official-game",
+      "official-community"
+    ],
+    "evidence": [
+      {
+        "id": "cosmetics-scope",
+        "statement": {
+          "en": "Official identity and announced rule context; dated screen observations are labelled in the relevant section."
+        },
+        "sourceId": "official-game",
+        "evidenceType": {
+          "en": "Official page and reviewed observations"
+        },
+        "verificationStatus": {
+          "en": "Reviewed 2026-10-30"
+        },
+        "spoilerLevel": {
+          "en": "Gameplay mechanics"
+        }
+      }
+    ],
+    "spoilerLevel": {
+      "en": "Gameplay mechanics"
+    },
+    "images": [
+      {
+        "id": "shot-mission-rewards",
+        "src": "/images/video-mission-rewards.webp",
+        "alt": {
+          "en": "Completed mission objectives and displayed cash rewards in the October 19 lobby."
+        },
+        "caption": {
+          "en": "Completed mission objectives and displayed cash rewards in the October 19 lobby. Source frame 00:00:20"
+        },
+        "ratio": "video",
+        "fit": "cover",
+        "sourceId": "video-kE2q1adep98",
+        "sourceUrl": "https://www.youtube.com/watch?v=kE2q1adep98&t=20s",
+        "timecode": "00:00:20",
+        "videoId": "kE2q1adep98"
+      },
+      {
+        "id": "shot-cosmetics-roll",
+        "src": "/images/video-cosmetics-roll.webp",
+        "alt": {
+          "en": "Cosmetics panel shows hero-skin pool, historical roll prices, odds and pity counters."
+        },
+        "caption": {
+          "en": "Cosmetics panel shows hero-skin pool, historical roll prices, odds and pity counters. Source frame 00:00:05"
+        },
+        "ratio": "video",
+        "fit": "cover",
+        "sourceId": "video-SaIky_z1obQ",
+        "sourceUrl": "https://www.youtube.com/watch?v=SaIky_z1obQ&t=5s",
+        "timecode": "00:00:05",
+        "videoId": "SaIky_z1obQ"
+      }
+    ],
+    "relatedPageIds": [
+      "codes",
+      "heroes",
+      "updates"
+    ],
+    "localeAvailability": [
+      "en"
+    ],
+    "publicationStatus": "published",
+    "faq": []
+  },
+  {
+    "page_id": "updates",
+    "route": "/updates/",
+    "section": "Guides",
+    "title": {
+      "en": "Hide From The Hulk Updates: Verified Changes"
+    },
+    "description": {
+      "en": "Separate the current Winter Soldier title from the written Doctor Strange announcement and dated player footage."
+    },
+    "pageType": "GuideArticle",
+    "pageStatus": {
+      "en": "Reviewed October 30, 2026"
+    },
+    "intro": {
+      "en": "Separate the current Winter Soldier title from the written Doctor Strange announcement and dated player footage."
+    },
+    "quickAnswer": {
+      "title": {
+        "en": "What to do first"
+      },
+      "body": {
+        "en": "The live title was [WINTER SOLDIER] on October 30. Read the separate official announcement for confirmed portal, AFK, hero-turn and execution changes."
+      },
+      "status": {
+        "en": "Official rules and reviewed gameplay"
+      }
+    },
+    "sections": [
+      {
+        "id": "current",
+        "title": {
+          "en": "Current title and dated observations"
+        },
+        "paragraphs": [
+          {
+            "en": "Roblox’s game API and the official game page both read [WINTER SOLDIER] Hide From The Hulk on October 30, 2026. This verifies the update label attached to the exact experience. A full Winter Soldier kit and patch log remain unverified."
+          },
+          {
+            "en": "The October 27 recording visibly includes Human Torch and Sue Storm. Its presenter describes a Fantastic 4 update. Those observations have their own date and should not be relabeled as the current Winter Soldier change list."
+          }
+        ]
+      },
+      {
+        "id": "announced",
+        "title": {
+          "en": "Written creator announcement"
+        },
+        "paragraphs": [
+          {
+            "en": "The community announcement adds Doctor Strange, Titan, shared portals, AFK, Auto Run, Assault Mode, Controller Shift Lock and a mobile layout rearrangement. It also describes hero turns and the ultimate-hit execution rescue condition."
+          },
+          {
+            "en": "It states that three minutes without input automatically enables AFK, and AFK players are never selected or put into rounds. The captured announcement supplies a relative age; an exact absolute release date was not independently recovered."
+          }
+        ]
+      },
+      {
+        "id": "ultron",
+        "title": {
+          "en": "An Ultron encounter was visible in October 23 footage"
+        },
+        "paragraphs": [
+          {
+            "en": "The reviewed player sequence shows an ULTRON boss bar and TAKE HIM DOWN objective. This confirms a visible encounter in that recording."
+          },
+          {
+            "en": "A boss appearance does not establish its current selection odds, schedule or full move list. Read the objective at the start of the actual round, then adjust your plan to the current HUD."
+          }
+        ],
+        "imageIds": [
+          "shot-ultron-encounter"
+        ]
+      }
+    ],
+    "boundary": {
+      "title": {
+        "en": "Version and evidence"
+      },
+      "items": [
+        {
+          "en": "Official rules were reviewed on October 30, 2026. Screenshots show community recordings from October 17 to 27; current balance, offers and bindings may change."
+        },
+        {
+          "en": "Tactical suggestions are editorial recommendations. Prices, drop rates and damage values are published only when tied to a dated visible screen."
+        }
+      ]
+    },
+    "sourceIds": [
+      "official-game",
+      "official-community"
+    ],
+    "evidence": [
+      {
+        "id": "updates-scope",
+        "statement": {
+          "en": "Official identity and announced rule context; dated screen observations are labelled in the relevant section."
+        },
+        "sourceId": "official-game",
+        "evidenceType": {
+          "en": "Official page and reviewed observations"
+        },
+        "verificationStatus": {
+          "en": "Reviewed 2026-10-30"
+        },
+        "spoilerLevel": {
+          "en": "Gameplay mechanics"
+        }
+      }
+    ],
+    "spoilerLevel": {
+      "en": "Gameplay mechanics"
+    },
+    "images": [
+      {
+        "id": "shot-ultron-encounter",
+        "src": "/images/video-ultron-encounter.webp",
+        "alt": {
+          "en": "October 23 footage shows Ultron and the TAKE HIM DOWN encounter objective."
+        },
+        "caption": {
+          "en": "October 23 footage shows Ultron and the TAKE HIM DOWN encounter objective. Source frame 00:01:40"
+        },
+        "ratio": "video",
+        "fit": "cover",
+        "sourceId": "video-SaIky_z1obQ",
+        "sourceUrl": "https://www.youtube.com/watch?v=SaIky_z1obQ&t=100s",
+        "timecode": "00:01:40",
+        "videoId": "SaIky_z1obQ"
+      }
+    ],
+    "relatedPageIds": [
+      "beginner",
+      "heroes",
+      "soldiers"
+    ],
+    "localeAvailability": [
+      "en"
+    ],
+    "publicationStatus": "published",
+    "faq": [],
+    "navigation": {
+      "label": {
+        "en": "Updates"
+      },
+      "order": 4
+    }
+  },
+  {
+    "page_id": "codes",
+    "route": "/codes/",
+    "section": "Guides",
+    "title": {
+      "en": "Hide From The Hulk Codes: Current Verification Status"
+    },
+    "description": {
+      "en": "Check what was verified on October 30 and understand why unsupported code lists have not been copied here."
+    },
+    "pageType": "GuideArticle",
+    "pageStatus": {
+      "en": "Reviewed October 30, 2026"
+    },
+    "intro": {
+      "en": "Check what was verified on October 30 and understand why unsupported code lists have not been copied here."
+    },
+    "quickAnswer": {
+      "title": {
+        "en": "What to do first"
+      },
+      "body": {
+        "en": "No active code was verified in this review. The official description and captured community announcement contain no code strings, and a redemption screen was not established."
+      },
+      "status": {
+        "en": "Official rules and reviewed gameplay"
+      }
+    },
+    "sections": [
+      {
+        "id": "status",
+        "title": {
+          "en": "Code status checked October 30, 2026"
+        },
+        "paragraphs": [
+          {
+            "en": "This review did not verify an active code, its reward or a successful redemption. That result does not prove that the game can never add codes. It means there is no supported working-code list to publish here today."
+          },
+          {
+            "en": "Third-party pages conflict: some advertise code strings and generic redemption instructions, while others report none confirmed. No official confirmation or readable redemption result resolved the conflict, so those strings are excluded."
+          }
+        ]
+      },
+      {
+        "id": "redeem",
+        "title": {
+          "en": "Where a future redemption guide would start"
+        },
+        "paragraphs": [
+          {
+            "en": "Use the official game and creator community for a code announcement. If the live game adds a code menu, first confirm the exact label and then record the entered code, response and reward."
+          },
+          {
+            "en": "A button location has not been verified for the current build. This page therefore gives no invented Twitter icon, gift button or Settings path. A real interface and result are needed before publishing those steps."
+          }
+        ]
+      },
+      {
+        "id": "rewards",
+        "title": {
+          "en": "Use the documented systems while waiting for code evidence"
+        },
+        "paragraphs": [
+          {
+            "en": "The Cosmetics panel is visible in reviewed footage and has its own guide. The hero and round guides cover systems supported by official text or readable screens."
+          },
+          {
+            "en": "If a future code fails, record its exact response and version context. Without that response, expiry, a spelling error and an unmet requirement remain separate possibilities."
+          }
+        ]
+      }
+    ],
+    "boundary": {
+      "title": {
+        "en": "Version and evidence"
+      },
+      "items": [
+        {
+          "en": "Official rules were reviewed on October 30, 2026. Screenshots show community recordings from October 17 to 27; current balance, offers and bindings may change."
+        },
+        {
+          "en": "Tactical suggestions are editorial recommendations. Prices, drop rates and damage values are published only when tied to a dated visible screen."
+        }
+      ]
+    },
+    "sourceIds": [
+      "official-game",
+      "official-community"
+    ],
+    "evidence": [
+      {
+        "id": "codes-scope",
+        "statement": {
+          "en": "Official identity and announced rule context; dated screen observations are labelled in the relevant section."
+        },
+        "sourceId": "official-game",
+        "evidenceType": {
+          "en": "Official page and reviewed observations"
+        },
+        "verificationStatus": {
+          "en": "Reviewed 2026-10-30"
+        },
+        "spoilerLevel": {
+          "en": "Gameplay mechanics"
+        }
+      }
+    ],
+    "spoilerLevel": {
+      "en": "Gameplay mechanics"
+    },
+    "images": [],
+    "relatedPageIds": [
+      "cosmetics",
+      "updates",
+      "beginner"
+    ],
+    "localeAvailability": [
+      "en"
+    ],
+    "publicationStatus": "published",
+    "faq": [
+      {
+        "question": {
+          "en": "Are any codes tested working?"
+        },
+        "answer": {
+          "en": "No. No live redemption was performed or verified in this review."
+        }
+      },
+      {
+        "question": {
+          "en": "Where is the Codes button?"
+        },
+        "answer": {
+          "en": "A current code-entry control was not verified. Generic button instructions from other games have been excluded."
+        }
+      }
+    ],
+    "navigation": {
+      "label": {
+        "en": "Codes"
+      },
+      "order": 3
+    }
+  },
+  {
+    "page_id": "sources",
+    "route": "/sources/",
+    "section": "Guides",
+    "title": {
+      "en": "Official Game and Community"
+    },
+    "description": {
+      "en": "Find the correct Hide From The Hulk game, creator community and developer site."
+    },
+    "pageType": "Source",
+    "pageStatus": {
+      "en": "Reviewed October 30, 2026"
+    },
+    "intro": {
+      "en": "Find the correct Hide From The Hulk game, creator community and developer site."
+    },
+    "quickAnswer": {
+      "title": {
+        "en": "What to do first"
+      },
+      "body": {
+        "en": "Open place 128913244126628 on Roblox. Its Universe ID is 10768676548 and the owner is the Hide From The Hulk group, ID 79035740."
+      },
+      "status": {
+        "en": "Official rules and reviewed gameplay"
+      }
+    },
+    "sections": [
+      {
+        "id": "identity",
+        "title": {
+          "en": "Recognise the exact experience"
+        },
+        "paragraphs": [
+          {
+            "en": "The owning Roblox group is Hide From The Hulk, managed by clozy. The official description credits Sushi Deluxe Studios and Clozy, and Sushi Deluxe Studios lists the same experience on its website."
+          },
+          {
+            "en": "Other Hulk-themed Roblox games are separate projects. Use the exact place link when checking an offer or announcement."
+          }
+        ]
+      },
+      {
+        "id": "review",
+        "title": {
+          "en": "How this guide uses gameplay"
+        },
+        "paragraphs": [
+          {
+            "en": "Community recordings supply readable interface examples. Official Roblox text supplies announced rules and identity. The guide distinguishes dated screenshots from current live balance and does not claim in-game testing."
+          },
+          {
+            "en": "The current evidence has gaps around the Winter Soldier kit, complete soldier weapons, cash reward formulas, code redemption and some controller mappings. Those gaps are retained rather than filled with guessed values."
+          }
+        ]
+      }
+    ],
+    "boundary": {
+      "title": {
+        "en": "Version and evidence"
+      },
+      "items": [
+        {
+          "en": "Official rules were reviewed on October 30, 2026. Screenshots show community recordings from October 17 to 27; current balance, offers and bindings may change."
+        },
+        {
+          "en": "Tactical suggestions are editorial recommendations. Prices, drop rates and damage values are published only when tied to a dated visible screen."
+        }
+      ]
+    },
+    "sourceIds": [
+      "official-game",
+      "official-community",
+      "official-studio"
+    ],
+    "evidence": [
+      {
+        "id": "sources-scope",
+        "statement": {
+          "en": "Official identity and announced rule context; dated screen observations are labelled in the relevant section."
+        },
+        "sourceId": "official-game",
+        "evidenceType": {
+          "en": "Official page and reviewed observations"
+        },
+        "verificationStatus": {
+          "en": "Reviewed 2026-10-30"
+        },
+        "spoilerLevel": {
+          "en": "Gameplay mechanics"
+        }
+      }
+    ],
+    "spoilerLevel": {
+      "en": "Gameplay mechanics"
+    },
+    "images": [],
+    "relatedPageIds": [
+      "updates",
+      "beginner"
+    ],
+    "localeAvailability": [
+      "en"
+    ],
+    "publicationStatus": "published",
+    "faq": [],
+    "navigation": {
+      "label": {
+        "en": "Official links"
+      },
+      "order": 5
+    }
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "route": "/",
+    "locales": [
+      "en"
+    ]
+  },
+  {
+    "route": "/guides/",
+    "locales": [
+      "en"
+    ]
+  },
+  {
+    "route": "/guides/beginner/",
+    "locales": [
+      "en"
+    ]
+  },
+  {
+    "route": "/guides/controls/",
+    "locales": [
+      "en"
+    ]
+  },
+  {
+    "route": "/heroes/",
+    "locales": [
+      "en"
+    ]
+  },
+  {
+    "route": "/guides/play-hulk/",
+    "locales": [
+      "en"
+    ]
+  },
+  {
+    "route": "/guides/soldiers-and-rescues/",
+    "locales": [
+      "en"
+    ]
+  },
+  {
+    "route": "/guides/maps-and-escape/",
+    "locales": [
+      "en"
+    ]
+  },
+  {
+    "route": "/guides/cosmetics-and-cash/",
+    "locales": [
+      "en"
+    ]
+  },
+  {
+    "route": "/updates/",
+    "locales": [
+      "en"
+    ]
+  },
+  {
+    "route": "/codes/",
+    "locales": [
+      "en"
+    ]
+  },
+  {
+    "route": "/sources/",
+    "locales": [
+      "en"
+    ]
+  }
+]

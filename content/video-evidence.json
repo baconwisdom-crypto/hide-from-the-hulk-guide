@@ -1,0 +1,275 @@
+[
+  {
+    "asset": "/images/video-lobby-intermission.webp",
+    "sourceId": "video-7LrtY70DAB8",
+    "sourceUrl": "https://www.youtube.com/watch?v=7LrtY70DAB8&t=5s",
+    "timecode": "00:00:05",
+    "text_block_id": "beginner.lobby",
+    "fact_ids": [
+      "fact-lobby-intermission"
+    ],
+    "shot_ids": [
+      "shot-lobby-intermission"
+    ]
+  },
+  {
+    "asset": "/images/video-round-objective.webp",
+    "sourceId": "video-SaIky_z1obQ",
+    "sourceUrl": "https://www.youtube.com/watch?v=SaIky_z1obQ&t=40s",
+    "timecode": "00:00:40",
+    "text_block_id": "beginner.objective",
+    "fact_ids": [
+      "fact-round-objective"
+    ],
+    "shot_ids": [
+      "shot-round-objective"
+    ]
+  },
+  {
+    "asset": "/images/video-first-route.webp",
+    "sourceId": "video-7LrtY70DAB8",
+    "sourceUrl": "https://www.youtube.com/watch?v=7LrtY70DAB8&t=80s",
+    "timecode": "00:01:20",
+    "text_block_id": "beginner.first-fight",
+    "fact_ids": [
+      "fact-first-route"
+    ],
+    "shot_ids": [
+      "shot-first-route"
+    ]
+  },
+  {
+    "asset": "/images/video-captain-pc-controls.webp",
+    "sourceId": "video-7LrtY70DAB8",
+    "sourceUrl": "https://www.youtube.com/watch?v=7LrtY70DAB8&t=30s",
+    "timecode": "00:00:30",
+    "text_block_id": "controls.pc",
+    "fact_ids": [
+      "fact-captain-pc-controls"
+    ],
+    "shot_ids": [
+      "shot-captain-pc-controls"
+    ]
+  },
+  {
+    "asset": "/images/video-mobile-controls.webp",
+    "sourceId": "video-J_w-_PJL6PU",
+    "sourceUrl": "https://www.youtube.com/watch?v=J_w-_PJL6PU&t=5s",
+    "timecode": "00:00:05",
+    "text_block_id": "controls.mobile",
+    "fact_ids": [
+      "fact-mobile-controls"
+    ],
+    "shot_ids": [
+      "shot-mobile-controls"
+    ]
+  },
+  {
+    "asset": "/images/video-controller-controls.webp",
+    "sourceId": "video-VWCN3exX9dU",
+    "sourceUrl": "https://www.youtube.com/watch?v=VWCN3exX9dU&t=80s",
+    "timecode": "00:01:20",
+    "text_block_id": "controls.controller",
+    "fact_ids": [
+      "fact-controller-controls"
+    ],
+    "shot_ids": [
+      "shot-controller-controls"
+    ]
+  },
+  {
+    "asset": "/images/video-flight-cooldown.webp",
+    "sourceId": "video-J_w-_PJL6PU",
+    "sourceUrl": "https://www.youtube.com/watch?v=J_w-_PJL6PU&t=700s",
+    "timecode": "00:11:40",
+    "text_block_id": "controls.cooldown",
+    "fact_ids": [
+      "fact-flight-cooldown"
+    ],
+    "shot_ids": [
+      "shot-flight-cooldown"
+    ]
+  },
+  {
+    "asset": "/images/video-human-torch-kit.webp",
+    "sourceId": "video-pA795Yc5tB8",
+    "sourceUrl": "https://www.youtube.com/watch?v=pA795Yc5tB8&t=5s",
+    "timecode": "00:00:05",
+    "text_block_id": "heroes.torch",
+    "fact_ids": [
+      "fact-human-torch-kit"
+    ],
+    "shot_ids": [
+      "shot-human-torch-kit"
+    ]
+  },
+  {
+    "asset": "/images/video-sue-boundary.webp",
+    "sourceId": "video-pA795Yc5tB8",
+    "sourceUrl": "https://www.youtube.com/watch?v=pA795Yc5tB8&t=225s",
+    "timecode": "00:03:45",
+    "text_block_id": "heroes.sue",
+    "fact_ids": [
+      "fact-sue-boundary"
+    ],
+    "shot_ids": [
+      "shot-sue-boundary"
+    ]
+  },
+  {
+    "asset": "/images/video-panther-encounter.webp",
+    "sourceId": "video-VWCN3exX9dU",
+    "sourceUrl": "https://www.youtube.com/watch?v=VWCN3exX9dU&t=120s",
+    "timecode": "00:02:00",
+    "text_block_id": "heroes.panther",
+    "fact_ids": [
+      "fact-panther-encounter"
+    ],
+    "shot_ids": [
+      "shot-panther-encounter"
+    ]
+  },
+  {
+    "asset": "/images/video-hulk-kit.webp",
+    "sourceId": "video-7LrtY70DAB8",
+    "sourceUrl": "https://www.youtube.com/watch?v=7LrtY70DAB8&t=320s",
+    "timecode": "00:05:20",
+    "text_block_id": "hulk.kit",
+    "fact_ids": [
+      "fact-hulk-kit"
+    ],
+    "shot_ids": [
+      "shot-hulk-kit"
+    ]
+  },
+  {
+    "asset": "/images/video-hulk-tracking.webp",
+    "sourceId": "video-SaIky_z1obQ",
+    "sourceUrl": "https://www.youtube.com/watch?v=SaIky_z1obQ&t=280s",
+    "timecode": "00:04:40",
+    "text_block_id": "hulk.track",
+    "fact_ids": [
+      "fact-hulk-tracking"
+    ],
+    "shot_ids": [
+      "shot-hulk-tracking"
+    ]
+  },
+  {
+    "asset": "/images/video-hulk-stairs.webp",
+    "sourceId": "video-7LrtY70DAB8",
+    "sourceUrl": "https://www.youtube.com/watch?v=7LrtY70DAB8&t=500s",
+    "timecode": "00:08:20",
+    "text_block_id": "hulk.routes",
+    "fact_ids": [
+      "fact-hulk-stairs"
+    ],
+    "shot_ids": [
+      "shot-hulk-stairs"
+    ]
+  },
+  {
+    "asset": "/images/video-soldier-rifle.webp",
+    "sourceId": "video-Uka_NJCwe_0",
+    "sourceUrl": "https://www.youtube.com/watch?v=Uka_NJCwe_0&t=30s",
+    "timecode": "00:00:30",
+    "text_block_id": "soldiers.soldier",
+    "fact_ids": [
+      "fact-soldier-rifle"
+    ],
+    "shot_ids": [
+      "shot-soldier-rifle"
+    ]
+  },
+  {
+    "asset": "/images/video-strange-portal.webp",
+    "sourceId": "video-kE2q1adep98",
+    "sourceUrl": "https://www.youtube.com/watch?v=kE2q1adep98&t=140s",
+    "timecode": "00:02:20",
+    "text_block_id": "soldiers.portals",
+    "fact_ids": [
+      "fact-strange-portal"
+    ],
+    "shot_ids": [
+      "shot-strange-portal"
+    ]
+  },
+  {
+    "asset": "/images/video-rooftop-lanes.webp",
+    "sourceId": "video-7LrtY70DAB8",
+    "sourceUrl": "https://www.youtube.com/watch?v=7LrtY70DAB8&t=150s",
+    "timecode": "00:02:30",
+    "text_block_id": "maps.rooftop",
+    "fact_ids": [
+      "fact-rooftop-lanes"
+    ],
+    "shot_ids": [
+      "shot-rooftop-lanes"
+    ]
+  },
+  {
+    "asset": "/images/video-door-prompt.webp",
+    "sourceId": "video-7LrtY70DAB8",
+    "sourceUrl": "https://www.youtube.com/watch?v=7LrtY70DAB8&t=230s",
+    "timecode": "00:03:50",
+    "text_block_id": "maps.interior",
+    "fact_ids": [
+      "fact-door-prompt"
+    ],
+    "shot_ids": [
+      "shot-door-prompt"
+    ]
+  },
+  {
+    "asset": "/images/video-titan-terrain.webp",
+    "sourceId": "video-pA795Yc5tB8",
+    "sourceUrl": "https://www.youtube.com/watch?v=pA795Yc5tB8&t=180s",
+    "timecode": "00:03:00",
+    "text_block_id": "maps.titan",
+    "fact_ids": [
+      "fact-titan-terrain"
+    ],
+    "shot_ids": [
+      "shot-titan-terrain"
+    ]
+  },
+  {
+    "asset": "/images/video-mission-rewards.webp",
+    "sourceId": "video-kE2q1adep98",
+    "sourceUrl": "https://www.youtube.com/watch?v=kE2q1adep98&t=20s",
+    "timecode": "00:00:20",
+    "text_block_id": "cosmetics.missions",
+    "fact_ids": [
+      "fact-mission-rewards"
+    ],
+    "shot_ids": [
+      "shot-mission-rewards"
+    ]
+  },
+  {
+    "asset": "/images/video-cosmetics-roll.webp",
+    "sourceId": "video-SaIky_z1obQ",
+    "sourceUrl": "https://www.youtube.com/watch?v=SaIky_z1obQ&t=5s",
+    "timecode": "00:00:05",
+    "text_block_id": "cosmetics.roll",
+    "fact_ids": [
+      "fact-cosmetics-roll"
+    ],
+    "shot_ids": [
+      "shot-cosmetics-roll"
+    ]
+  },
+  {
+    "asset": "/images/video-ultron-encounter.webp",
+    "sourceId": "video-SaIky_z1obQ",
+    "sourceUrl": "https://www.youtube.com/watch?v=SaIky_z1obQ&t=100s",
+    "timecode": "00:01:40",
+    "text_block_id": "updates.ultron",
+    "fact_ids": [
+      "fact-ultron-encounter"
+    ],
+    "shot_ids": [
+      "shot-ultron-encounter"
+    ]
+  }
+]

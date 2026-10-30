@@ -1,0 +1,132 @@
+[
+  {
+    "id": "official-game",
+    "name": "Hide From The Hulk on Roblox",
+    "publisher": "Roblox / Hide From The Hulk",
+    "type": "Official game source",
+    "url": "https://www.roblox.com/games/128913244126628/Hide-From-The-Hulk",
+    "lastChecked": "2026-10-30",
+    "status": "Official",
+    "publicUse": "official-first-party",
+    "note": {
+      "en": "Identity checked against Roblox universe 10768676548 and place 128913244126628."
+    }
+  },
+  {
+    "id": "official-community",
+    "name": "Hide From The Hulk creator announcements",
+    "publisher": "clozy / Hide From The Hulk",
+    "type": "Official game source",
+    "url": "https://www.roblox.com/communities/79035740/Hide-From-The-Hulk",
+    "lastChecked": "2026-10-30",
+    "status": "Official",
+    "publicUse": "official-first-party",
+    "note": {
+      "en": "Identity checked against Roblox universe 10768676548 and place 128913244126628."
+    }
+  },
+  {
+    "id": "official-studio",
+    "name": "Sushi Deluxe Studios",
+    "publisher": "Sushi Deluxe Studios",
+    "type": "Official game source",
+    "url": "https://www.sushideluxe.gg/",
+    "lastChecked": "2026-10-30",
+    "status": "Official",
+    "publicUse": "official-first-party",
+    "note": {
+      "en": "Identity checked against Roblox universe 10768676548 and place 128913244126628."
+    }
+  },
+  {
+    "id": "video-Uka_NJCwe_0",
+    "name": "Playing Hide From The Hulk",
+    "publisher": "anlme",
+    "type": "Community gameplay video",
+    "url": "https://www.youtube.com/watch?v=Uka_NJCwe_0",
+    "lastChecked": "2026-10-30",
+    "status": "Community footage, recorded October 2026",
+    "publicUse": "internal-only",
+    "note": {
+      "en": "Frame-reviewed community footage. Historical interface and values; no live-game test is claimed."
+    }
+  },
+  {
+    "id": "video-7LrtY70DAB8",
+    "name": "New huge update! - Hide from the Hulk - Roblox",
+    "publisher": "John_DragonBall",
+    "type": "Community gameplay video",
+    "url": "https://www.youtube.com/watch?v=7LrtY70DAB8",
+    "lastChecked": "2026-10-30",
+    "status": "Community footage, recorded October 2026",
+    "publicUse": "internal-only",
+    "note": {
+      "en": "Frame-reviewed community footage. Historical interface and values; no live-game test is claimed."
+    }
+  },
+  {
+    "id": "video-SaIky_z1obQ",
+    "name": "NEW ULTRON UPDATE!!! - Hide from the Hulk - Roblox",
+    "publisher": "John_DragonBall",
+    "type": "Community gameplay video",
+    "url": "https://www.youtube.com/watch?v=SaIky_z1obQ",
+    "lastChecked": "2026-10-30",
+    "status": "Community footage, recorded October 2026",
+    "publicUse": "internal-only",
+    "note": {
+      "en": "Frame-reviewed community footage. Historical interface and values; no live-game test is claimed."
+    }
+  },
+  {
+    "id": "video-J_w-_PJL6PU",
+    "name": "The Hide From The Hulk Experience",
+    "publisher": "lizardslayer2000",
+    "type": "Community gameplay video",
+    "url": "https://www.youtube.com/watch?v=J_w-_PJL6PU",
+    "lastChecked": "2026-10-30",
+    "status": "Community footage, recorded October 2026",
+    "publicUse": "internal-only",
+    "note": {
+      "en": "Frame-reviewed community footage. Historical interface and values; no live-game test is claimed."
+    }
+  },
+  {
+    "id": "video-pA795Yc5tB8",
+    "name": "Fantastic 4 update! - Hide from the Hulk - Roblox",
+    "publisher": "John_DragonBall",
+    "type": "Community gameplay video",
+    "url": "https://www.youtube.com/watch?v=pA795Yc5tB8",
+    "lastChecked": "2026-10-30",
+    "status": "Community footage, recorded October 2026",
+    "publicUse": "internal-only",
+    "note": {
+      "en": "Frame-reviewed community footage. Historical interface and values; no live-game test is claimed."
+    }
+  },
+  {
+    "id": "video-VWCN3exX9dU",
+    "name": "New Black Panther hero in HIDE FROM THE HULK Hero Showcase",
+    "publisher": "Corbeanplayz11",
+    "type": "Community gameplay video",
+    "url": "https://www.youtube.com/watch?v=VWCN3exX9dU",
+    "lastChecked": "2026-10-30",
+    "status": "Community footage, recorded October 2026",
+    "publicUse": "internal-only",
+    "note": {
+      "en": "Frame-reviewed community footage. Historical interface and values; no live-game test is claimed."
+    }
+  },
+  {
+    "id": "video-kE2q1adep98",
+    "name": "NEW Dr Strange hero in HIDE FROM THE HULK",
+    "publisher": "Corbeanplayz11",
+    "type": "Community gameplay video",
+    "url": "https://www.youtube.com/watch?v=kE2q1adep98",
+    "lastChecked": "2026-10-30",
+    "status": "Community footage, recorded October 2026",
+    "publicUse": "internal-only",
+    "note": {
+      "en": "Frame-reviewed community footage. Historical interface and values; no live-game test is claimed."
+    }
+  }
+]

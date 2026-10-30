@@ -1,0 +1,747 @@
+{
+  "version": 1,
+  "ui": {
+    "topics": {
+      "en": "Guide topics"
+    },
+    "chooseTask": {
+      "en": "What do you want to do?"
+    },
+    "browseTopics": {
+      "en": "Browse by task"
+    },
+    "pathways": {
+      "en": "Suggested reading routes"
+    },
+    "openTopic": {
+      "en": "Open topic"
+    },
+    "allGuides": {
+      "en": "All guides in this topic"
+    },
+    "onPage": {
+      "en": "In this guide"
+    },
+    "nextTask": {
+      "en": "Your next step"
+    },
+    "support": {
+      "en": "Supporting guidance"
+    },
+    "evidence": {
+      "en": "About this guide"
+    },
+    "faq": {
+      "en": "Questions and answers"
+    },
+    "primary": {
+      "en": "Quick answer"
+    },
+    "image": {
+      "en": "Reference context"
+    },
+    "catalog": {
+      "en": "Name reference"
+    },
+    "comparison": {
+      "en": "Compare before changing"
+    },
+    "procedure": {
+      "en": "Work through the steps"
+    },
+    "troubleshooting": {
+      "en": "Choose the symptom"
+    },
+    "check": {
+      "en": "Check first"
+    },
+    "action": {
+      "en": "What to do"
+    },
+    "success": {
+      "en": "Success check"
+    },
+    "fallback": {
+      "en": "If it remains unclear"
+    },
+    "background": {
+      "en": "More details and limits"
+    },
+    "continueLabel": {
+      "en": "Continue with"
+    },
+    "startLabel": {
+      "en": "Start here"
+    },
+    "sourceScope": {
+      "en": "Source scope"
+    },
+    "overview": {
+      "en": "Overview"
+    },
+    "related": {
+      "en": "Related tasks"
+    },
+    "guidesCount": {
+      "en": "guides",
+      "de": "Anleitungen"
+    },
+    "recordsCount": {
+      "en": "records",
+      "de": "Einträge"
+    },
+    "sectionsCount": {
+      "en": "sections",
+      "de": "Abschnitte"
+    },
+    "expandBackground": {
+      "en": "Read the full background",
+      "de": "Hintergrund lesen"
+    }
+  },
+  "groups": [
+    {
+      "id": "play",
+      "title": {
+        "en": "Learn the next round"
+      },
+      "summary": {
+        "en": "Round flow, input and escape routes."
+      },
+      "hubPageId": "guides-hub",
+      "pageIds": [
+        "beginner",
+        "controls",
+        "hulk",
+        "soldiers",
+        "maps"
+      ],
+      "featured": [
+        {
+          "pageId": "beginner",
+          "label": {
+            "en": "Hide From The Hulk Beginner Guide"
+          },
+          "description": {
+            "en": "Follow the lobby, role selection, round objective and first escape route with reviewed gameplay screens."
+          }
+        },
+        {
+          "pageId": "controls",
+          "label": {
+            "en": "Hide From The Hulk Controls: PC, Mobile & Controller"
+          },
+          "description": {
+            "en": "Read the actual Captain America, Hulk and Iron Man action bars and understand role-specific inputs."
+          }
+        },
+        {
+          "pageId": "hulk",
+          "label": {
+            "en": "How to Play Hulk in Hide From The Hulk"
+          },
+          "description": {
+            "en": "Use the visible Hulk action bar, scent information, movement and round objective to plan a chase."
+          }
+        }
+      ]
+    },
+    {
+      "id": "roles",
+      "title": {
+        "en": "Heroes and rewards"
+      },
+      "summary": {
+        "en": "Read kits, cosmetic rolls and current code status."
+      },
+      "hubPageId": "heroes",
+      "pageIds": [
+        "heroes",
+        "cosmetics",
+        "codes",
+        "updates"
+      ],
+      "featured": [
+        {
+          "pageId": "heroes",
+          "label": {
+            "en": "Hide From The Hulk Heroes: Ability Reference"
+          },
+          "description": {
+            "en": "Compare visible Captain America, Iron Man, Human Torch, Sue Storm and Black Panther actions before choosing a role."
+          }
+        },
+        {
+          "pageId": "cosmetics",
+          "label": {
+            "en": "Hide From The Hulk Cosmetics and Cash"
+          },
+          "description": {
+            "en": "Read the Cosmetics roll panel, distinguish historical roll costs from current offers and avoid unverified cash claims."
+          }
+        },
+        {
+          "pageId": "codes",
+          "label": {
+            "en": "Hide From The Hulk Codes: Current Verification Status"
+          },
+          "description": {
+            "en": "Check what was verified on October 30 and understand why unsupported code lists have not been copied here."
+          }
+        }
+      ]
+    }
+  ],
+  "journeys": [],
+  "pages": {
+    "home": {
+      "template": "landing",
+      "focusSectionIds": [
+        "start",
+        "version",
+        "plan"
+      ],
+      "groupIds": [],
+      "journeyIds": [],
+      "destinations": [
+        {
+          "pageId": "beginner",
+          "label": {
+            "en": "Hide From The Hulk Beginner Guide"
+          },
+          "description": {
+            "en": "Follow the lobby, role selection, round objective and first escape route with reviewed gameplay screens."
+          }
+        },
+        {
+          "pageId": "heroes",
+          "label": {
+            "en": "Hide From The Hulk Heroes: Ability Reference"
+          },
+          "description": {
+            "en": "Compare visible Captain America, Iron Man, Human Torch, Sue Storm and Black Panther actions before choosing a role."
+          }
+        },
+        {
+          "pageId": "controls",
+          "label": {
+            "en": "Hide From The Hulk Controls: PC, Mobile & Controller"
+          },
+          "description": {
+            "en": "Read the actual Captain America, Hulk and Iron Man action bars and understand role-specific inputs."
+          }
+        }
+      ],
+      "supportTitle": {
+        "en": "More details"
+      },
+      "scopeNote": {
+        "en": "Official announcements and dated player footage; current damage and purchase values are unverified."
+      }
+    },
+    "guides-hub": {
+      "template": "hub",
+      "focusSectionIds": [
+        "choose"
+      ],
+      "groupIds": [
+        "play"
+      ],
+      "journeyIds": [],
+      "destinations": [
+        {
+          "pageId": "beginner",
+          "label": {
+            "en": "Hide From The Hulk Beginner Guide"
+          },
+          "description": {
+            "en": "Follow the lobby, role selection, round objective and first escape route with reviewed gameplay screens."
+          }
+        },
+        {
+          "pageId": "controls",
+          "label": {
+            "en": "Hide From The Hulk Controls: PC, Mobile & Controller"
+          },
+          "description": {
+            "en": "Read the actual Captain America, Hulk and Iron Man action bars and understand role-specific inputs."
+          }
+        },
+        {
+          "pageId": "maps",
+          "label": {
+            "en": "Hide From The Hulk Maps and Escape Routes"
+          },
+          "description": {
+            "en": "Read rooftop lanes, indoor stairwells and Titan cover with real gameplay frames."
+          }
+        }
+      ],
+      "supportTitle": {
+        "en": "More details"
+      },
+      "scopeNote": {
+        "en": "Official announcements and dated player footage; current damage and purchase values are unverified."
+      }
+    },
+    "beginner": {
+      "template": "landing",
+      "focusSectionIds": [
+        "lobby",
+        "objective",
+        "first-fight"
+      ],
+      "groupIds": [
+        "play"
+      ],
+      "journeyIds": [],
+      "destinations": [
+        {
+          "pageId": "controls",
+          "label": {
+            "en": "Hide From The Hulk Controls: PC, Mobile & Controller"
+          },
+          "description": {
+            "en": "Read the actual Captain America, Hulk and Iron Man action bars and understand role-specific inputs."
+          }
+        },
+        {
+          "pageId": "heroes",
+          "label": {
+            "en": "Hide From The Hulk Heroes: Ability Reference"
+          },
+          "description": {
+            "en": "Compare visible Captain America, Iron Man, Human Torch, Sue Storm and Black Panther actions before choosing a role."
+          }
+        },
+        {
+          "pageId": "maps",
+          "label": {
+            "en": "Hide From The Hulk Maps and Escape Routes"
+          },
+          "description": {
+            "en": "Read rooftop lanes, indoor stairwells and Titan cover with real gameplay frames."
+          }
+        }
+      ],
+      "supportTitle": {
+        "en": "More details"
+      },
+      "scopeNote": {
+        "en": "Official announcements and dated player footage; current damage and purchase values are unverified."
+      }
+    },
+    "controls": {
+      "template": "landing",
+      "focusSectionIds": [
+        "pc",
+        "mobile",
+        "controller"
+      ],
+      "groupIds": [
+        "play"
+      ],
+      "journeyIds": [],
+      "destinations": [
+        {
+          "pageId": "heroes",
+          "label": {
+            "en": "Hide From The Hulk Heroes: Ability Reference"
+          },
+          "description": {
+            "en": "Compare visible Captain America, Iron Man, Human Torch, Sue Storm and Black Panther actions before choosing a role."
+          }
+        },
+        {
+          "pageId": "hulk",
+          "label": {
+            "en": "How to Play Hulk in Hide From The Hulk"
+          },
+          "description": {
+            "en": "Use the visible Hulk action bar, scent information, movement and round objective to plan a chase."
+          }
+        },
+        {
+          "pageId": "beginner",
+          "label": {
+            "en": "Hide From The Hulk Beginner Guide"
+          },
+          "description": {
+            "en": "Follow the lobby, role selection, round objective and first escape route with reviewed gameplay screens."
+          }
+        }
+      ],
+      "supportTitle": {
+        "en": "More details"
+      },
+      "scopeNote": {
+        "en": "Official announcements and dated player footage; current damage and purchase values are unverified."
+      }
+    },
+    "heroes": {
+      "template": "comparison",
+      "focusSectionIds": [
+        "compare",
+        "torch",
+        "sue"
+      ],
+      "groupIds": [
+        "roles"
+      ],
+      "journeyIds": [],
+      "destinations": [
+        {
+          "pageId": "controls",
+          "label": {
+            "en": "Hide From The Hulk Controls: PC, Mobile & Controller"
+          },
+          "description": {
+            "en": "Read the actual Captain America, Hulk and Iron Man action bars and understand role-specific inputs."
+          }
+        },
+        {
+          "pageId": "beginner",
+          "label": {
+            "en": "Hide From The Hulk Beginner Guide"
+          },
+          "description": {
+            "en": "Follow the lobby, role selection, round objective and first escape route with reviewed gameplay screens."
+          }
+        },
+        {
+          "pageId": "cosmetics",
+          "label": {
+            "en": "Hide From The Hulk Cosmetics and Cash"
+          },
+          "description": {
+            "en": "Read the Cosmetics roll panel, distinguish historical roll costs from current offers and avoid unverified cash claims."
+          }
+        }
+      ],
+      "supportTitle": {
+        "en": "More details"
+      },
+      "scopeNote": {
+        "en": "Official announcements and dated player footage; current damage and purchase values are unverified."
+      },
+      "comparisonSectionId": "compare"
+    },
+    "hulk": {
+      "template": "landing",
+      "focusSectionIds": [
+        "kit",
+        "track",
+        "routes"
+      ],
+      "groupIds": [
+        "play"
+      ],
+      "journeyIds": [],
+      "destinations": [
+        {
+          "pageId": "maps",
+          "label": {
+            "en": "Hide From The Hulk Maps and Escape Routes"
+          },
+          "description": {
+            "en": "Read rooftop lanes, indoor stairwells and Titan cover with real gameplay frames."
+          }
+        },
+        {
+          "pageId": "controls",
+          "label": {
+            "en": "Hide From The Hulk Controls: PC, Mobile & Controller"
+          },
+          "description": {
+            "en": "Read the actual Captain America, Hulk and Iron Man action bars and understand role-specific inputs."
+          }
+        },
+        {
+          "pageId": "soldiers",
+          "label": {
+            "en": "Soldier and Team Rescue Guide"
+          },
+          "description": {
+            "en": "Understand soldier participation, shared portals and the officially announced way to interrupt an execution."
+          }
+        }
+      ],
+      "supportTitle": {
+        "en": "More details"
+      },
+      "scopeNote": {
+        "en": "Official announcements and dated player footage; current damage and purchase values are unverified."
+      }
+    },
+    "soldiers": {
+      "template": "landing",
+      "focusSectionIds": [
+        "soldier",
+        "rescue",
+        "portals"
+      ],
+      "groupIds": [
+        "play"
+      ],
+      "journeyIds": [],
+      "destinations": [
+        {
+          "pageId": "maps",
+          "label": {
+            "en": "Hide From The Hulk Maps and Escape Routes"
+          },
+          "description": {
+            "en": "Read rooftop lanes, indoor stairwells and Titan cover with real gameplay frames."
+          }
+        },
+        {
+          "pageId": "hulk",
+          "label": {
+            "en": "How to Play Hulk in Hide From The Hulk"
+          },
+          "description": {
+            "en": "Use the visible Hulk action bar, scent information, movement and round objective to plan a chase."
+          }
+        },
+        {
+          "pageId": "controls",
+          "label": {
+            "en": "Hide From The Hulk Controls: PC, Mobile & Controller"
+          },
+          "description": {
+            "en": "Read the actual Captain America, Hulk and Iron Man action bars and understand role-specific inputs."
+          }
+        }
+      ],
+      "supportTitle": {
+        "en": "More details"
+      },
+      "scopeNote": {
+        "en": "Official announcements and dated player footage; current damage and purchase values are unverified."
+      }
+    },
+    "maps": {
+      "template": "landing",
+      "focusSectionIds": [
+        "rooftop",
+        "interior",
+        "titan"
+      ],
+      "groupIds": [
+        "play"
+      ],
+      "journeyIds": [],
+      "destinations": [
+        {
+          "pageId": "heroes",
+          "label": {
+            "en": "Hide From The Hulk Heroes: Ability Reference"
+          },
+          "description": {
+            "en": "Compare visible Captain America, Iron Man, Human Torch, Sue Storm and Black Panther actions before choosing a role."
+          }
+        },
+        {
+          "pageId": "soldiers",
+          "label": {
+            "en": "Soldier and Team Rescue Guide"
+          },
+          "description": {
+            "en": "Understand soldier participation, shared portals and the officially announced way to interrupt an execution."
+          }
+        },
+        {
+          "pageId": "hulk",
+          "label": {
+            "en": "How to Play Hulk in Hide From The Hulk"
+          },
+          "description": {
+            "en": "Use the visible Hulk action bar, scent information, movement and round objective to plan a chase."
+          }
+        }
+      ],
+      "supportTitle": {
+        "en": "More details"
+      },
+      "scopeNote": {
+        "en": "Official announcements and dated player footage; current damage and purchase values are unverified."
+      }
+    },
+    "cosmetics": {
+      "template": "landing",
+      "focusSectionIds": [
+        "roll",
+        "odds",
+        "missions"
+      ],
+      "groupIds": [
+        "roles"
+      ],
+      "journeyIds": [],
+      "destinations": [
+        {
+          "pageId": "codes",
+          "label": {
+            "en": "Hide From The Hulk Codes: Current Verification Status"
+          },
+          "description": {
+            "en": "Check what was verified on October 30 and understand why unsupported code lists have not been copied here."
+          }
+        },
+        {
+          "pageId": "heroes",
+          "label": {
+            "en": "Hide From The Hulk Heroes: Ability Reference"
+          },
+          "description": {
+            "en": "Compare visible Captain America, Iron Man, Human Torch, Sue Storm and Black Panther actions before choosing a role."
+          }
+        },
+        {
+          "pageId": "updates",
+          "label": {
+            "en": "Hide From The Hulk Updates: Verified Changes"
+          },
+          "description": {
+            "en": "Separate the current Winter Soldier title from the written Doctor Strange announcement and dated player footage."
+          }
+        }
+      ],
+      "supportTitle": {
+        "en": "More details"
+      },
+      "scopeNote": {
+        "en": "Official announcements and dated player footage; current damage and purchase values are unverified."
+      }
+    },
+    "updates": {
+      "template": "landing",
+      "focusSectionIds": [
+        "current",
+        "announced",
+        "ultron"
+      ],
+      "groupIds": [
+        "roles"
+      ],
+      "journeyIds": [],
+      "destinations": [
+        {
+          "pageId": "beginner",
+          "label": {
+            "en": "Hide From The Hulk Beginner Guide"
+          },
+          "description": {
+            "en": "Follow the lobby, role selection, round objective and first escape route with reviewed gameplay screens."
+          }
+        },
+        {
+          "pageId": "heroes",
+          "label": {
+            "en": "Hide From The Hulk Heroes: Ability Reference"
+          },
+          "description": {
+            "en": "Compare visible Captain America, Iron Man, Human Torch, Sue Storm and Black Panther actions before choosing a role."
+          }
+        },
+        {
+          "pageId": "soldiers",
+          "label": {
+            "en": "Soldier and Team Rescue Guide"
+          },
+          "description": {
+            "en": "Understand soldier participation, shared portals and the officially announced way to interrupt an execution."
+          }
+        }
+      ],
+      "supportTitle": {
+        "en": "More details"
+      },
+      "scopeNote": {
+        "en": "Official announcements and dated player footage; current damage and purchase values are unverified."
+      }
+    },
+    "codes": {
+      "template": "landing",
+      "focusSectionIds": [
+        "status",
+        "redeem",
+        "rewards"
+      ],
+      "groupIds": [
+        "roles"
+      ],
+      "journeyIds": [],
+      "destinations": [
+        {
+          "pageId": "cosmetics",
+          "label": {
+            "en": "Hide From The Hulk Cosmetics and Cash"
+          },
+          "description": {
+            "en": "Read the Cosmetics roll panel, distinguish historical roll costs from current offers and avoid unverified cash claims."
+          }
+        },
+        {
+          "pageId": "updates",
+          "label": {
+            "en": "Hide From The Hulk Updates: Verified Changes"
+          },
+          "description": {
+            "en": "Separate the current Winter Soldier title from the written Doctor Strange announcement and dated player footage."
+          }
+        },
+        {
+          "pageId": "beginner",
+          "label": {
+            "en": "Hide From The Hulk Beginner Guide"
+          },
+          "description": {
+            "en": "Follow the lobby, role selection, round objective and first escape route with reviewed gameplay screens."
+          }
+        }
+      ],
+      "supportTitle": {
+        "en": "More details"
+      },
+      "scopeNote": {
+        "en": "Official announcements and dated player footage; current damage and purchase values are unverified."
+      }
+    },
+    "sources": {
+      "template": "hub",
+      "focusSectionIds": [
+        "identity",
+        "review"
+      ],
+      "groupIds": [],
+      "journeyIds": [],
+      "destinations": [
+        {
+          "pageId": "updates",
+          "label": {
+            "en": "Hide From The Hulk Updates: Verified Changes"
+          },
+          "description": {
+            "en": "Separate the current Winter Soldier title from the written Doctor Strange announcement and dated player footage."
+          }
+        },
+        {
+          "pageId": "beginner",
+          "label": {
+            "en": "Hide From The Hulk Beginner Guide"
+          },
+          "description": {
+            "en": "Follow the lobby, role selection, round objective and first escape route with reviewed gameplay screens."
+          }
+        }
+      ],
+      "supportTitle": {
+        "en": "More details"
+      },
+      "scopeNote": {
+        "en": "Official announcements and dated player footage; current damage and purchase values are unverified."
+      }
+    }
+  }
+}
