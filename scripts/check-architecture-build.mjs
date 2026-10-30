@@ -26,5 +26,10 @@ for (const page of pages.filter(p=>p.publicationStatus==='published')) {
     if (backgroundCount && !html.includes('class="arch-support-index"')) failures.push(`${route}: background outline missing`);
   }
 }
-if(failures.length){console.error(failures.join('\n'));process.exit(1);}
+if(failures.length){
+  const sample=read('.next/server/app/index.html');
+  console.error('Architecture diagnostic IDs:',[...sample.matchAll(/\bid="([^"]+)"/g)].map(m=>m[1]).join(', '));
+  console.error('Architecture diagnostic section:',sample.slice(Math.max(0,sample.indexOf('supporting-guidance')-100),sample.indexOf('supporting-guidance')+1800));
+  console.error(failures.join('\n'));process.exit(1);
+}
 console.log(`Architecture build passed: ${checked} localized structured pages, original anchors and visible background indexes.`);
