@@ -5,7 +5,7 @@ export const siteConfig: SiteConfig = {
   siteSlug: "hide-from-the-hulk",
   description: { en: "Hide From The Hulk guides to heroes, controls, maps, cosmetic rolls and team survival, with reviewed gameplay images." },
   siteUrl: "https://www.hidefromthehulkroblox.wiki",
-  searchVisibility: "preview",
+  searchVisibility: "public",
   architecture: { enabled: true, templates: ["landing", "hub", "comparison", "procedure", "catalog", "troubleshooting"] },
   theme: { accent: "#a3e635", accentSoft: "#d9f99d", background: "#0b1110", panel: "#13201a" },
   brandIcon: { src: "/images/official-icon.png", alt: { en: "Hide From The Hulk official Roblox icon" }, sourceId: "official-game" },
