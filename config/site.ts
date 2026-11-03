@@ -20,7 +20,7 @@ export const siteConfig: SiteConfig = {
   heroImage: { src: "/images/official-hero.png", alt: { en: "Official Hide From The Hulk promotional image from Roblox" }, heroMediaType: "official-promotional-image", sourceId: "official-game", ratio: "video" },
   heroVideo: null,
   mediaPresentation: { showImageText: false },
-  analytics: { enabled: false },
+  analytics: { enabled: true, measurementId: "G-EP91S3R1LY" },
   ads: { enabled: false, previewPlaceholders: false, desktopChrome: { enabled: false }, placements: { "top-sticky": true, "left-sticky": true, "home-banner": true, "article-banner": true, "sidebar-square": true } },
   evidenceLabels: [ { label: "Official rules", note: { en: "Roblox game identity and creator announcements." } }, { label: "Reviewed gameplay", note: { en: "Community recordings with dated interface examples." } } ],
   disclaimer: { en: "Independent fan guide. Hide From The Hulk is developed by Sushi Deluxe Studios and Clozy. This site is unaffiliated with its developers, Roblox or Marvel." }
